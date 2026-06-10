@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     
     # API
     api_host: str = "0.0.0.0"
-    api_port: int = 8000
+    api_port: int = Field(default=8000, validation_alias="PORT")
     api_workers: int = 4
     
     # Upstash Redis (Optional)
