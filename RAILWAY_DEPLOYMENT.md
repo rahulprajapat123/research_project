@@ -40,6 +40,12 @@ Tells Railway how to start the application:
 web: uvicorn main:app --host 0.0.0.0 --port $PORT
 ```
 
+### `runtime.txt`
+Specifies Python version:
+```
+3.12
+```
+
 ### `railway.json`
 Railway-specific configuration:
 ```json
@@ -48,24 +54,14 @@ Railway-specific configuration:
     "builder": "NIXPACKS"
   },
   "deploy": {
+    "startCommand": "uvicorn main:app --host 0.0.0.0 --port $PORT",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10
   }
 }
 ```
 
-### `nixpacks.toml`
-Build configuration:
-```toml
-[phases.setup]
-nixPkgs = ["python312"]
-
-[phases.install]
-cmds = ["pip install -r requirements.txt"]
-
-[start]
-cmd = "uvicorn main:app --host 0.0.0.0 --port $PORT"
-```
+Railway auto-detects Python apps based on `requirements.txt` and uses the Python version from `runtime.txt`.
 
 ---
 
