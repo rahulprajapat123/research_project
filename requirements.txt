@@ -25,7 +25,7 @@ pypdf==4.0.1
 pdfplumber==0.10.3
 beautifulsoup4==4.12.3
 lxml==5.1.0
-python-magic==0.4.27
+# python-magic==0.4.27  # Disabled for Vercel (requires system libraries)
 
 # HTTP & Async
 httpx==0.25.2

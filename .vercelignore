@@ -1,0 +1,15 @@
+# Exclude from Vercel deployment
+logs/
+storage/
+*.log
+*.pyc
+__pycache__/
+.pytest_cache/
+.env.local
+test_*.py
+tests/
+*.md
+!README.md
+sample_*.md
+.git/
+.vscode/
