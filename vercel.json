@@ -33,12 +33,20 @@
     "GNEWS_API_KEY": "@gnews_api_key",
     "NEWSAPI_KEY": "@newsapi_key",
     "GITHUB_TOKEN": "@github_token",
-    "APIFY_API_TOKEN": "@apify_api_token"
+    "APIFY_API_TOKEN": "@apify_api_token",
+    "EMAIL_PROVIDER": "@email_provider",
+    "EMAIL_FROM": "@email_from"
   },
   "functions": {
     "main.py": {
-      "memory": 1024,
-      "maxDuration": 60
+      "memory": 3008,
+      "maxDuration": 300
     }
-  }
+  },
+  "crons": [
+    {
+      "path": "/api/v1/sources/fetch-latest",
+      "schedule": "0 2 * * *"
+    }
+  ]
 }
