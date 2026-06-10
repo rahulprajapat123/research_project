@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "main.py",
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
+    },
+    {
+      "src": "frontend/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/frontend/(.*)",
+      "dest": "/frontend/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "main.py"
+    }
+  ],
+  "env": {
+    "OPENAI_API_KEY": "@openai_api_key",
+    "DATABASE_CONNECTION_STRING": "@database_connection_string",
+    "RESEND_API_KEY": "@resend_api_key",
+    "SEMANTIC_SCHOLAR_API_KEY": "@semantic_scholar_api_key",
+    "OPENALEX_CONTACT_EMAIL": "@openalex_contact_email",
+    "HUGGINGFACE_TOKEN": "@huggingface_token",
+    "GNEWS_API_KEY": "@gnews_api_key",
+    "NEWSAPI_KEY": "@newsapi_key",
+    "GITHUB_TOKEN": "@github_token",
+    "APIFY_API_TOKEN": "@apify_api_token"
+  },
+  "functions": {
+    "main.py": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  }
+}

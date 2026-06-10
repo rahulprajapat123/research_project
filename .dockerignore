@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+venv_old/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+!README.md
+docs/
+PHASE1_COMPLETE.md
+SETUP_COMPLETE.md
+INTEGRATION_SUMMARY.md
+PRODUCTION_DEPLOYMENT.md
+QUICKSTART.md
+QUICKSTART_INTEGRATED.md
+AZURE_DEPLOYMENT.md
+
+# Logs and temporary files
+logs/
+*.log
+raw_documents/
+documents/
+
+# Testing
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+*.coverage
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Workflows
+n8n_workflows/
+
+# Azure
+.azure/

@@ -1,0 +1,238 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                  RESEND DOMAIN VERIFICATION - QUICK GUIDE                 ║
+║                     Send to @bridgeaitech.com addresses                   ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 1: LOGIN TO RESEND                                                   │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Go to: https://resend.com/login
+   → Enter your credentials
+   → Access dashboard
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 2: ADD DOMAIN                                                        │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Click "Domains" in sidebar
+   → Click "Add Domain" button
+   → Enter: bridgeaitech.com
+   → Click "Add"
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 3: COPY DNS RECORDS (Resend will show you these)                    │
+└───────────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ Record 1: SPF (Sender Policy Framework)                            │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ Type:  TXT                                                          │
+   │ Name:  @                                                            │
+   │ Value: v=spf1 include:_spf.resend.com ~all                         │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ Record 2: DKIM (DomainKeys Identified Mail)                        │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ Type:  TXT                                                          │
+   │ Name:  resend._domainkey                                            │
+   │ Value: [Long string from Resend - starts with "v=DKIM1; k=rsa;"]   │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ Record 3: DMARC (Optional but recommended)                         │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ Type:  TXT                                                          │
+   │ Name:  _dmarc                                                       │
+   │ Value: v=DMARC1; p=none; rua=mailto:dmarc@bridgeaitech.com         │
+   └─────────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 4: ADD RECORDS TO YOUR DNS PROVIDER                                 │
+└───────────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ CLOUDFLARE                                                          │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ 1. Login → Select domain → DNS                                      │
+   │ 2. Add record → Type: TXT                                           │
+   │ 3. Paste Name and Value from above                                  │
+   │ 4. Save (repeat for all 3 records)                                  │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ GODADDY                                                             │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ 1. My Products → DNS → Select domain                                │
+   │ 2. Records → Add → Type: TXT                                        │
+   │ 3. Paste Name and Value                                             │
+   │ 4. Save (repeat for all 3 records)                                  │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ NAMECHEAP                                                           │
+   ├─────────────────────────────────────────────────────────────────────┤
+   │ 1. Domain List → Manage → Advanced DNS                              │
+   │ 2. Add New Record → TXT Record                                      │
+   │ 3. Paste Host and Value                                             │
+   │ 4. Save (repeat for all 3 records)                                  │
+   └─────────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 5: WAIT FOR DNS PROPAGATION                                         │
+└───────────────────────────────────────────────────────────────────────────┘
+   ⏰ Typical wait time: 15-30 minutes
+   🌍 Can take up to 24 hours in rare cases
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 6: VERIFY DNS RECORDS (Optional but helpful)                        │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Go to: https://mxtoolbox.com/SuperTool.aspx
+   → Enter: bridgeaitech.com
+   → Select: TXT Lookup
+   → You should see your SPF record
+
+   → For DKIM, enter: resend._domainkey.bridgeaitech.com
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 7: VERIFY IN RESEND                                                 │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Go back to Resend → Domains
+   → Find bridgeaitech.com
+   → Click "Verify" button
+   → Wait for ✅ "Verified" status
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 8: UPDATE EMAIL ADDRESS                                             │
+└───────────────────────────────────────────────────────────────────────────┘
+
+   Option A: Run update script
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ python update_team_email.py                                         │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   Option B: Use frontend
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ 1. Go to: http://localhost:8000                                     │
+   │ 2. Daily Intelligence → Email Settings                              │
+   │ 3. Change to: rahul.prajapat@bridgeaitech.com                       │
+   │ 4. Save                                                              │
+   └─────────────────────────────────────────────────────────────────────┘
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 9: TEST EMAIL SENDING                                               │
+└───────────────────────────────────────────────────────────────────────────┘
+   ┌─────────────────────────────────────────────────────────────────────┐
+   │ python test_email_sending.py                                        │
+   └─────────────────────────────────────────────────────────────────────┘
+
+   Expected output:
+   ✅ Status: sent
+   ✅ Recipient: rahul.prajapat@bridgeaitech.com
+   ✅ Provider: resend
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ STEP 10: CHECK INBOX                                                     │
+└───────────────────────────────────────────────────────────────────────────┘
+   📧 Check: rahul.prajapat@bridgeaitech.com
+   📧 Also check spam/junk folder
+   📧 Subject: "Daily AI Intelligence Brief - [date]"
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                              TROUBLESHOOTING                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ ⚠️  Verification keeps showing "Pending"                                  │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Wait longer (DNS can take up to 24 hours)
+   → Double-check record names are EXACT (@ not bridgeaitech.com)
+   → Check for typos in values
+   → Remove any duplicate TXT records
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ ⚠️  Email still failing after verification                                │
+└───────────────────────────────────────────────────────────────────────────┘
+   → Confirm domain shows ✅ Verified in Resend
+   → Restart server: python main.py
+   → Re-run update script
+   → Check .env still has RESEND_API_KEY
+
+
+┌───────────────────────────────────────────────────────────────────────────┐
+│ ⚠️  Don't have DNS access                                                 │
+└───────────────────────────────────────────────────────────────────────────┘
+   Option 1: Contact bridgeaitech.com domain admin
+   Option 2: Use Gmail SMTP instead (no verification needed)
+   Option 3: Keep current setup (rahulprajapat.tech123@gmail.com)
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                           VERIFICATION CHECKLIST                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+   Before clicking "Verify" in Resend:
+
+   [ ] Added SPF record (Name: @)
+   [ ] Added DKIM record (Name: resend._domainkey)
+   [ ] Added DMARC record (Name: _dmarc) - optional
+   [ ] Waited 15-30 minutes
+   [ ] Checked records with mxtoolbox.com
+   [ ] No duplicate TXT records
+   [ ] Values copied exactly from Resend
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                          AFTER VERIFICATION SUCCESS                       ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+   ✅ Send to ANY @bridgeaitech.com email
+   ✅ No more sandbox restrictions
+   ✅ Better email deliverability
+   ✅ Professional sender domain
+   ✅ Unlimited recipients
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                               TIME ESTIMATE                               ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+   Setup in DNS provider:     5-10 minutes
+   DNS propagation wait:      15-60 minutes
+   Verification & testing:    5 minutes
+   ───────────────────────────────────────
+   TOTAL:                     25-75 minutes
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                            HELPFUL RESOURCES                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+   📖 Full Guide:        RESEND_DOMAIN_VERIFICATION.md
+   🔧 Update Script:     update_team_email.py
+   ✉️  Test Script:       test_email_sending.py
+   🌐 Resend Dashboard:  https://resend.com/domains
+   🔍 DNS Checker:       https://mxtoolbox.com
+   📊 DNS Propagation:   https://dnschecker.org
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                         NEED MORE HELP?                                   ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+   Let me know:
+   • Which DNS provider you're using (Cloudflare, GoDaddy, etc.)
+   • Where you're stuck in the process
+   • Any error messages you're seeing
+
+   I can provide more specific instructions or help troubleshoot! 🚀

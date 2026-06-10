@@ -1,0 +1,2 @@
+# Placeholder file to ensure storage directory is included in git
+# Actual JSON files are ignored via .gitignore

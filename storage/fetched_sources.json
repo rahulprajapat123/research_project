@@ -1,0 +1,1121 @@
+{
+  "sources": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2RrZFNGclM1NVpNRG52bmZPeG16dDhWOTg1aGlORzNwNjBadW9mVkd0TU9aaXM4cmdwUmlYQVVBbV94SWl4N29lWU1aSm1YMmFXUUQwTDIyLUVLNUNxcGZySWtIalRKYUhRX04wMFpPVmJLOXRxSUVIWUxRaTJtRzhDT19WTVN4QjZn?oc=5",
+      "title": "10 Common RAG Mistakes We Keep Seeing in Production - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2RrZFNGclM1NVpNRG52bmZPeG16dDhWOTg1aGlORzNwNjBadW9mVkd0TU9aaXM4cmdwUmlYQVVBbV94SWl4N29lWU1aSm1YMmFXUUQwTDIyLUVLNUNxcGZySWtIalRKYUhRX04wMFpPVmJLOXRxSUVIWUxRaTJtRzhDT19WTVN4QjZn?oc=5\" target=\"_blank\">10 Common RAG Mistakes We Keep Seeing in Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.995794",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2RrZFNGclM1NVpNRG52bmZPeG16dDhWOTg1aGlORzNwNjBadW9mVkd0TU9aaXM4cmdwUmlYQVVBbV94SWl4N29lWU1aSm1YMmFXUUQwTDIyLUVLNUNxcGZySWtIalRKYUhRX04wMFpPVmJLOXRxSUVIWUxRaTJtRzhDT19WTVN4QjZn?oc=5",
+      "dedupe_hash": "ac936e7edd918858293d6263b28bb0e1",
+      "created_at": "2026-06-10T03:13:55.098548+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSC10TEFvaXh4WFlDZVd0cjJaSy1TVXhfaTNQMHBIckdxcFdmdV9xNmRGSFV2UEpoNWF1LTZHaWlkQ3dQTUtoTDFkWDVuY3lkeVNCM0FvYTUxemV4ZG1rY3VBblhIcTFWQ3dIa29nQ2s2OUZwNzlfUzg2LUFTTXFCZjB4cVpiQXhRbFpzWlJKblhEbEVBYUJTUnNHb1ctWjFOa1JfYkI5SDJPNTZYbDVlbDRWV2cxanVwMjRvZDNGbW4tNHFUSTlaa29BRVhlR2Rib1pUaDgyUHhQRUhIbm15SXloQk1BbGt5VHNFQ2tKTnRrR1JaOXc?oc=5",
+      "title": "Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries - MarkTechPost",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSC10TEFvaXh4WFlDZVd0cjJaSy1TVXhfaTNQMHBIckdxcFdmdV9xNmRGSFV2UEpoNWF1LTZHaWlkQ3dQTUtoTDFkWDVuY3lkeVNCM0FvYTUxemV4ZG1rY3VBblhIcTFWQ3dIa29nQ2s2OUZwNzlfUzg2LUFTTXFCZjB4cVpiQXhRbFpzWlJKblhEbEVBYUJTUnNHb1ctWjFOa1JfYkI5SDJPNTZYbDVlbDRWV2cxanVwMjRvZDNGbW4tNHFUSTlaa29BRVhlR2Rib1pUaDgyUHhQRUhIbm15SXloQk1BbGt5VHNFQ2tKTnRrR1JaOXc?oc=5\" target=\"_blank\">Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.995794",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSC10TEFvaXh4WFlDZVd0cjJaSy1TVXhfaTNQMHBIckdxcFdmdV9xNmRGSFV2UEpoNWF1LTZHaWlkQ3dQTUtoTDFkWDVuY3lkeVNCM0FvYTUxemV4ZG1rY3VBblhIcTFWQ3dIa29nQ2s2OUZwNzlfUzg2LUFTTXFCZjB4cVpiQXhRbFpzWlJKblhEbEVBYUJTUnNHb1ctWjFOa1JfYkI5SDJPNTZYbDVlbDRWV2cxanVwMjRvZDNGbW4tNHFUSTlaa29BRVhlR2Rib1pUaDgyUHhQRUhIbm15SXloQk1BbGt5VHNFQ2tKTnRrR1JaOXc?oc=5",
+      "dedupe_hash": "d965ca2872d3644babc05248fc403d21",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hBNzlyOTFJN1h1bzVJNkhwbjdOVGU0U0pJSnFTS1o2cVhwamFsU1BUWFlMOHJJMmZ2MTJ0cVNKRXVLWFQ2alVVcDQ4Nk1Hdm9DRE92eFZpeUlTQnk4S18wcGhCeFk1VExNSWxDWExFVjNjMHlTd2FEMDFfakc3YWE4WklMMTU5YUgtWDFiTXpKbTdlTkhRWFdlWXFfSFFaSFVSbkhOeGYwdXVpbXdmQ3d3?oc=5",
+      "title": "Brittney Griner throws Angel Reese to the floor like a rag doll in stunning show of power - Fox News",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hBNzlyOTFJN1h1bzVJNkhwbjdOVGU0U0pJSnFTS1o2cVhwamFsU1BUWFlMOHJJMmZ2MTJ0cVNKRXVLWFQ2alVVcDQ4Nk1Hdm9DRE92eFZpeUlTQnk4S18wcGhCeFk1VExNSWxDWExFVjNjMHlTd2FEMDFfakc3YWE4WklMMTU5YUgtWDFiTXpKbTdlTkhRWFdlWXFfSFFaSFVSbkhOeGYwdXVpbXdmQ3d3?oc=5\" target=\"_blank\">Brittney Griner throws Angel Reese to the floor like a rag doll in stunning show of power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-03",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.995794",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2hBNzlyOTFJN1h1bzVJNkhwbjdOVGU0U0pJSnFTS1o2cVhwamFsU1BUWFlMOHJJMmZ2MTJ0cVNKRXVLWFQ2alVVcDQ4Nk1Hdm9DRE92eFZpeUlTQnk4S18wcGhCeFk1VExNSWxDWExFVjNjMHlTd2FEMDFfakc3YWE4WklMMTU5YUgtWDFiTXpKbTdlTkhRWFdlWXFfSFFaSFVSbkhOeGYwdXVpbXdmQ3d3?oc=5",
+      "dedupe_hash": "4ae161bfe4db1c0e829d77b30c6da3c2",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc0cyZnVlTkJQT05rTVFjdGdKSGJlWWMxZDRKblBMZEQ1blhIUnFIdW43aEdBMk5jakJKMWE5dHA1Q2JnX1JBOXgtY0sycmFrZ0R6RU8tRkgxR2tpT21xdENGUkxtTjM5U2t2STNidnQza3kw?oc=5",
+      "title": "Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG - infoq.com",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc0cyZnVlTkJQT05rTVFjdGdKSGJlWWMxZDRKblBMZEQ1blhIUnFIdW43aEdBMk5jakJKMWE5dHA1Q2JnX1JBOXgtY0sycmFrZ0R6RU8tRkgxR2tpT21xdENGUkxtTjM5U2t2STNidnQza3kw?oc=5\" target=\"_blank\">Why Vector Search Alone Isn't Enough: Hybrid Retrieval for RAG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.com</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-02",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.995794",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc0cyZnVlTkJQT05rTVFjdGdKSGJlWWMxZDRKblBMZEQ1blhIUnFIdW43aEdBMk5jakJKMWE5dHA1Q2JnX1JBOXgtY0sycmFrZ0R6RU8tRkgxR2tpT21xdENGUkxtTjM5U2t2STNidnQza3kw?oc=5",
+      "dedupe_hash": "22d30edb55875e886024e4c69f6335df",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlRFTjBxd0tWdEtLckpva2x3c2lFeUQyeHktbVp0R3ZIcVg0UHMxalFGSWhUYmRoRVJ5R3VRN01XWS1lYmFjeDZYSFVJbVJ1b2ZkQ1dvODdtTDlJVWMxYjVJbjlpRm0wSGRuTFZWd3NsQ01OX3pPWlRhN2pWZ0I0QWJXX3loQzZFWWtVUG4wRDdlSEM2R1dsQmRmRzNnNkRtLU1icWc4Zjg?oc=5",
+      "title": "LLM agent memory at 0.12% of model parameters - VentureBeat",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlRFTjBxd0tWdEtLckpva2x3c2lFeUQyeHktbVp0R3ZIcVg0UHMxalFGSWhUYmRoRVJ5R3VRN01XWS1lYmFjeDZYSFVJbVJ1b2ZkQ1dvODdtTDlJVWMxYjVJbjlpRm0wSGRuTFZWd3NsQ01OX3pPWlRhN2pWZ0I0QWJXX3loQzZFWWtVUG4wRDdlSEM2R1dsQmRmRzNnNkRtLU1icWc4Zjg?oc=5\" target=\"_blank\">LLM agent memory at 0.12% of model parameters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-21",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.995794",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlRFTjBxd0tWdEtLckpva2x3c2lFeUQyeHktbVp0R3ZIcVg0UHMxalFGSWhUYmRoRVJ5R3VRN01XWS1lYmFjeDZYSFVJbVJ1b2ZkQ1dvODdtTDlJVWMxYjVJbjlpRm0wSGRuTFZWd3NsQ01OX3pPWlRhN2pWZ0I0QWJXX3loQzZFWWtVUG4wRDdlSEM2R1dsQmRmRzNnNkRtLU1icWc4Zjg?oc=5",
+      "dedupe_hash": "aa67c8d99ce71ff55dd04ad3abe26b31",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWh0NlNPQmtHM1F3OGFCQy13TXhBdHZvLXRwSzhaUTFPekI4V1ZNX3c3am9PVU1BLVhFRHk3NUE3Si1FSlVpVkJ0TTZsTlZPcEpiRVBFZmdYQkRleEpXTkR3RGFSeUpzTGluSlhnRkxsYTdYc1VUNFRGSm9sdUN5TXl2WlBXT2l0TWd1LTBpQ1pFX0RGUXVaREJ0clZMWG1OcjVqSGJmSFZpMVBFWDBsd2NJMA?oc=5",
+      "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG - blog.google",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWh0NlNPQmtHM1F3OGFCQy13TXhBdHZvLXRwSzhaUTFPekI4V1ZNX3c3am9PVU1BLVhFRHk3NUE3Si1FSlVpVkJ0TTZsTlZPcEpiRVBFZmdYQkRleEpXTkR3RGFSeUpzTGluSlhnRkxsYTdYc1VUNFRGSm9sdUN5TXl2WlBXT2l0TWd1LTBpQ1pFX0RGUXVaREJ0clZMWG1OcjVqSGJmSFZpMVBFWDBsd2NJMA?oc=5\" target=\"_blank\">Gemini API File Search is now multimodal: build efficient, verifiable RAG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-05",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWh0NlNPQmtHM1F3OGFCQy13TXhBdHZvLXRwSzhaUTFPekI4V1ZNX3c3am9PVU1BLVhFRHk3NUE3Si1FSlVpVkJ0TTZsTlZPcEpiRVBFZmdYQkRleEpXTkR3RGFSeUpzTGluSlhnRkxsYTdYc1VUNFRGSm9sdUN5TXl2WlBXT2l0TWd1LTBpQ1pFX0RGUXVaREJ0clZMWG1OcjVqSGJmSFZpMVBFWDBsd2NJMA?oc=5",
+      "dedupe_hash": "07b273220a29b105502cf76db9d56b10",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseVdjU0E1MExDSEw2a1F0TTdhbU5JYnRUX3p2ME05LXNaSDFQUFFpXzZfel9nc1FZTEUzdkpQV050VEJVd3dCWUhnendfRTlfaFVRMXJKaEU0bVdJUnQzbQ?oc=5",
+      "title": "The company that made RAG mainstream is now betting against it - The New Stack",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseVdjU0E1MExDSEw2a1F0TTdhbU5JYnRUX3p2ME05LXNaSDFQUFFpXzZfel9nc1FZTEUzdkpQV050VEJVd3dCWUhnendfRTlfaFVRMXJKaEU0bVdJUnQzbQ?oc=5\" target=\"_blank\">The company that made RAG mainstream is now betting against it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-06",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseVdjU0E1MExDSEw2a1F0TTdhbU5JYnRUX3p2ME05LXNaSDFQUFFpXzZfel9nc1FZTEUzdkpQV050VEJVd3dCWUhnendfRTlfaFVRMXJKaEU0bVdJUnQzbQ?oc=5",
+      "dedupe_hash": "05221d1a748009a2d6d8fee637f59555",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXZZM0F2dUhHckZubTU4aVA5RWViY25Lb1R2RUp5QWRsN3d3NkpJbnJLZW1va0dzalJjZDFUOWJuMU9saWRNTFhBRlZIOU1EbHR2QUMxcDRPYjNpbTJ3S0xGZXZoR280SkZJTnpoRk9nMXY0SGo0d0VWWm5HLXpac3p3aC1oTGcwZFNESnJBVDhLR2JuZWNNaXNKa2hEajh2dW5DbEVwS0JVMC1nZGlDbw?oc=5",
+      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG - Research at Google",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXZZM0F2dUhHckZubTU4aVA5RWViY25Lb1R2RUp5QWRsN3d3NkpJbnJLZW1va0dzalJjZDFUOWJuMU9saWRNTFhBRlZIOU1EbHR2QUMxcDRPYjNpbTJ3S0xGZXZoR280SkZJTnpoRk9nMXY0SGo0d0VWWm5HLXpac3p3aC1oTGcwZFNESnJBVDhLR2JuZWNNaXNKa2hEajh2dW5DbEVwS0JVMC1nZGlDbw?oc=5\" target=\"_blank\">Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Research at Google</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-05",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXZZM0F2dUhHckZubTU4aVA5RWViY25Lb1R2RUp5QWRsN3d3NkpJbnJLZW1va0dzalJjZDFUOWJuMU9saWRNTFhBRlZIOU1EbHR2QUMxcDRPYjNpbTJ3S0xGZXZoR280SkZJTnpoRk9nMXY0SGo0d0VWWm5HLXpac3p3aC1oTGcwZFNESnJBVDhLR2JuZWNNaXNKa2hEajh2dW5DbEVwS0JVMC1nZGlDbw?oc=5",
+      "dedupe_hash": "da6a28b595e89aa24e92cee237d3743a",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWGtCeWtXeWtSUTlpU204R1Z0R2lDMFlKREFXbVI0MFpXNHRtU29XRnRmcFhPZ3QxajJyNHJrSVJjb1VOMUc4eUhTT2R5UlNjdFEweXozWkppYTlDemh0ck9LRjl0OEpMaVB5b2d2NFF2T1VDRWc?oc=5",
+      "title": "Building with Gemini Embedding 2: Agentic multimodal RAG and beyond - blog.google",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWGtCeWtXeWtSUTlpU204R1Z0R2lDMFlKREFXbVI0MFpXNHRtU29XRnRmcFhPZ3QxajJyNHJrSVJjb1VOMUc4eUhTT2R5UlNjdFEweXozWkppYTlDemh0ck9LRjl0OEpMaVB5b2d2NFF2T1VDRWc?oc=5\" target=\"_blank\">Building with Gemini Embedding 2: Agentic multimodal RAG and beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-04-30",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWGtCeWtXeWtSUTlpU204R1Z0R2lDMFlKREFXbVI0MFpXNHRtU29XRnRmcFhPZ3QxajJyNHJrSVJjb1VOMUc4eUhTT2R5UlNjdFEweXozWkppYTlDemh0ck9LRjl0OEpMaVB5b2d2NFF2T1VDRWc?oc=5",
+      "dedupe_hash": "8c3755255f6dc397864b06f9bfc3dbae",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVRRQjVJS2ViTGg3UzNITnA1cDJlclpEN1RhS2RiUEZMdE9SLUlmM0NmNlNIVnJxZVlIQUdSaWlvUklaZnNFZVZtbUYwcWtxaVhldW0tMnNLejBjcFczdXZYXzNQc056Q2xoZVc2MjBORnVDLV9VMk9IMkNRSF9obnZhSzM1TFc2NVNnV09wcVhYcnJWLUhjNjFJbFdpcVFBM2FzN3h3UUNsNmxOaDJLWFlMc0s2V2xieXc?oc=5",
+      "title": "Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVRRQjVJS2ViTGg3UzNITnA1cDJlclpEN1RhS2RiUEZMdE9SLUlmM0NmNlNIVnJxZVlIQUdSaWlvUklaZnNFZVZtbUYwcWtxaVhldW0tMnNLejBjcFczdXZYXzNQc056Q2xoZVc2MjBORnVDLV9VMk9IMkNRSF9obnZhSzM1TFc2NVNnV09wcVhYcnJWLUhjNjFJbFdpcVFBM2FzN3h3UUNsNmxOaDJLWFlMc0s2V2xieXc?oc=5\" target=\"_blank\">Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-31",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVRRQjVJS2ViTGg3UzNITnA1cDJlclpEN1RhS2RiUEZMdE9SLUlmM0NmNlNIVnJxZVlIQUdSaWlvUklaZnNFZVZtbUYwcWtxaVhldW0tMnNLejBjcFczdXZYXzNQc056Q2xoZVc2MjBORnVDLV9VMk9IMkNRSF9obnZhSzM1TFc2NVNnV09wcVhYcnJWLUhjNjFJbFdpcVFBM2FzN3h3UUNsNmxOaDJLWFlMc0s2V2xieXc?oc=5",
+      "dedupe_hash": "18a7b399b4742b8e13c7b2c6d9c7cb45",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZFkxR0Q5ZWRhcVZ6SzBtTWYxU2NKMWFZQzFaQktaRThpR3prVWUwT1M5cm5nMmdSREZyX01PYUJ2WGNHcTVzRDJ3a25sVjdtTUtaakRaa3JveUNxWjBOdEY5VGVVZlNHdTYxNzNCR1VuMjBVbG8wRw?oc=5",
+      "title": "Portrait of a Brewer: Jim Millea, OB Brewery - OB Rag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZFkxR0Q5ZWRhcVZ6SzBtTWYxU2NKMWFZQzFaQktaRThpR3prVWUwT1M5cm5nMmdSREZyX01PYUJ2WGNHcTVzRDJ3a25sVjdtTUtaakRaa3JveUNxWjBOdEY5VGVVZlNHdTYxNzNCR1VuMjBVbG8wRw?oc=5\" target=\"_blank\">Portrait of a Brewer: Jim Millea, OB Brewery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OB Rag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZFkxR0Q5ZWRhcVZ6SzBtTWYxU2NKMWFZQzFaQktaRThpR3prVWUwT1M5cm5nMmdSREZyX01PYUJ2WGNHcTVzRDJ3a25sVjdtTUtaakRaa3JveUNxWjBOdEY5VGVVZlNHdTYxNzNCR1VuMjBVbG8wRw?oc=5",
+      "dedupe_hash": "8c79dd9995fbce5ea6f865fcdff58da4",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGVUSDAyVE51Ylh1Rk1lZGt5S3FrNlZhZWJ1RklEbGxERVljbXF5T21QMGZXYU9JbnR2bnIxbm1iRE1IeDRMR0J0N3J6bXRuNkpVWHFWR3VxN2N1QlNSaWNtUXhyemJhZjh2TF9zXzlCbGRfWXhEX1EzVXZrd04tamhNcWFQbkNBUkZzU0JvVFFpc1o3dkVmcks2eENkQWtkOUEzbnhtT2haeFNiTnFsSlJUbU45MWdTT0E0LWUtQVd4X3hX?oc=5",
+      "title": "Tiger Rag Radio: LSU Legends reminisce on the 30th Anniversary of Warren Morris\u2019 CWS walk-off and More - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGVUSDAyVE51Ylh1Rk1lZGt5S3FrNlZhZWJ1RklEbGxERVljbXF5T21QMGZXYU9JbnR2bnIxbm1iRE1IeDRMR0J0N3J6bXRuNkpVWHFWR3VxN2N1QlNSaWNtUXhyemJhZjh2TF9zXzlCbGRfWXhEX1EzVXZrd04tamhNcWFQbkNBUkZzU0JvVFFpc1o3dkVmcks2eENkQWtkOUEzbnhtT2haeFNiTnFsSlJUbU45MWdTT0E0LWUtQVd4X3hX?oc=5\" target=\"_blank\">Tiger Rag Radio: LSU Legends reminisce on the 30th Anniversary of Warren Morris\u2019 CWS walk-off and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-10",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdGVUSDAyVE51Ylh1Rk1lZGt5S3FrNlZhZWJ1RklEbGxERVljbXF5T21QMGZXYU9JbnR2bnIxbm1iRE1IeDRMR0J0N3J6bXRuNkpVWHFWR3VxN2N1QlNSaWNtUXhyemJhZjh2TF9zXzlCbGRfWXhEX1EzVXZrd04tamhNcWFQbkNBUkZzU0JvVFFpc1o3dkVmcks2eENkQWtkOUEzbnhtT2haeFNiTnFsSlJUbU45MWdTT0E0LWUtQVd4X3hX?oc=5",
+      "dedupe_hash": "b06df213af462ad2f664ab89a3865889",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZU1XWko1bnJpYlU4bHJrTFpLTGhhODZua1ZBNjBIZXJFZkZyMXFyd18yQzh3YmstUVhqXy1OZVM5U0QtQzR1cF9TbG5yY2ZxalpmQVZoVWwweHlGNjVoSWhPZ01EY25icVpRSGpEcnF3eHhrZzVB0gF8QVVfeXFMT0pTQTBGXzFNS2dVV2VuSnY3bnpOTWZTMnFuQ3p0U2h6Xy1Wb0o4aXJwd290LTJMZ01ablFWQW1vVlBkekNwSVpZQnQ0YTFJNHlOWjByTHJoS2UzNFNWRkZRdVJoRWhSX04tWTRwYkFqYVlBSUtBMU5yem9EUQ?oc=5",
+      "title": "REVIEW: Rag And Bone \u201cStrain\u201d - Americana Highways",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZU1XWko1bnJpYlU4bHJrTFpLTGhhODZua1ZBNjBIZXJFZkZyMXFyd18yQzh3YmstUVhqXy1OZVM5U0QtQzR1cF9TbG5yY2ZxalpmQVZoVWwweHlGNjVoSWhPZ01EY25icVpRSGpEcnF3eHhrZzVB0gF8QVVfeXFMT0pTQTBGXzFNS2dVV2VuSnY3bnpOTWZTMnFuQ3p0U2h6Xy1Wb0o4aXJwd290LTJMZ01ablFWQW1vVlBkekNwSVpZQnQ0YTFJNHlOWjByTHJoS2UzNFNWRkZRdVJoRWhSX04tWTRwYkFqYVlBSUtBMU5yem9EUQ?oc=5\" target=\"_blank\">REVIEW: Rag And Bone \u201cStrain\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Americana Highways</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZU1XWko1bnJpYlU4bHJrTFpLTGhhODZua1ZBNjBIZXJFZkZyMXFyd18yQzh3YmstUVhqXy1OZVM5U0QtQzR1cF9TbG5yY2ZxalpmQVZoVWwweHlGNjVoSWhPZ01EY25icVpRSGpEcnF3eHhrZzVB0gF8QVVfeXFMT0pTQTBGXzFNS2dVV2VuSnY3bnpOTWZTMnFuQ3p0U2h6Xy1Wb0o4aXJwd290LTJMZ01ablFWQW1vVlBkekNwSVpZQnQ0YTFJNHlOWjByTHJoS2UzNFNWRkZRdVJoRWhSX04tWTRwYkFqYVlBSUtBMU5yem9EUQ?oc=5",
+      "dedupe_hash": "f804bee6de71dd039340274a77db2c68",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3hndVVhc2dOY2V0Si1RdXlGSnlyUFlxWEJsb1JyZkYtWHhNeVlCc3JWS2MxVE9yMzFqeGxYMHN2M0pRZ1lYV2hOMG50ZW5CeGdjOFJueThLMjFCR21yU1k0amRuR3JHaXVUbXZFTTVMZ0JZNnBzNldWZnJCWWhDdjFsY0FyVDRBWk1uR0ZhNm1IUkVMTDlSWENJbWhObG02U2ZCT1hCUHE1VmFI?oc=5",
+      "title": "Alex Bowcut on RAG: Accuracy Over Obsolescence - StartupHub.ai",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3hndVVhc2dOY2V0Si1RdXlGSnlyUFlxWEJsb1JyZkYtWHhNeVlCc3JWS2MxVE9yMzFqeGxYMHN2M0pRZ1lYV2hOMG50ZW5CeGdjOFJueThLMjFCR21yU1k0amRuR3JHaXVUbXZFTTVMZ0JZNnBzNldWZnJCWWhDdjFsY0FyVDRBWk1uR0ZhNm1IUkVMTDlSWENJbWhObG02U2ZCT1hCUHE1VmFI?oc=5\" target=\"_blank\">Alex Bowcut on RAG: Accuracy Over Obsolescence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3hndVVhc2dOY2V0Si1RdXlGSnlyUFlxWEJsb1JyZkYtWHhNeVlCc3JWS2MxVE9yMzFqeGxYMHN2M0pRZ1lYV2hOMG50ZW5CeGdjOFJueThLMjFCR21yU1k0amRuR3JHaXVUbXZFTTVMZ0JZNnBzNldWZnJCWWhDdjFsY0FyVDRBWk1uR0ZhNm1IUkVMTDlSWENJbWhObG02U2ZCT1hCUHE1VmFI?oc=5",
+      "dedupe_hash": "c1714af67acfddd3582aaeb97b41f0d9",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5",
+      "title": "From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents - Oracle Blogs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5\" target=\"_blank\">From RAG to AI Memory Systems: Building Stateful Architectures for Durable, Context-Aware Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-04",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlIQ2psY1dScWotYmxDQUp5OVFtUHVyZVY3eFMweDdvdERWVzFBbVlIcHE1c2hxdFRJUTlDVjJobVhqcWtpdDZXeE9YYlVkazFUVWp3T3AtZUVYODBteFIyekVOV2kwT2VxZVFCVUxwWTVuNVBfX05FTUV5eEw4b2RVZVhCdTFiVXhlMHVMaTdoWVZhbmd3VFRzQ3U?oc=5",
+      "dedupe_hash": "47cdce461b2103f9d0dfbc291fd60851",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGJnQjZJQnFWMEkyQXhleUZQMkVsTmdIZC1QSVF3b3BBblpzUUgyTzVHbkVkaDkxbDNPUVZubklBY3VFT3BJUTItVXJPeFRDN0VfdjdYNnpQdzNQSVFzbkxJVXNlM1hGTHNqUGlZb2xrc1JxellGelluMHphX0xranhNZTZJUQ?oc=5",
+      "title": "A Two-Way Primary Race for Attorney General - HillRag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGJnQjZJQnFWMEkyQXhleUZQMkVsTmdIZC1QSVF3b3BBblpzUUgyTzVHbkVkaDkxbDNPUVZubklBY3VFT3BJUTItVXJPeFRDN0VfdjdYNnpQdzNQSVFzbkxJVXNlM1hGTHNqUGlZb2xrc1JxellGelluMHphX0xranhNZTZJUQ?oc=5\" target=\"_blank\">A Two-Way Primary Race for Attorney General</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HillRag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-05",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGJnQjZJQnFWMEkyQXhleUZQMkVsTmdIZC1QSVF3b3BBblpzUUgyTzVHbkVkaDkxbDNPUVZubklBY3VFT3BJUTItVXJPeFRDN0VfdjdYNnpQdzNQSVFzbkxJVXNlM1hGTHNqUGlZb2xrc1JxellGelluMHphX0xranhNZTZJUQ?oc=5",
+      "dedupe_hash": "e9a877bedbb280a05118e088b235907e",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUNoc2N3S1pvTmhtVkJGcUFFSG1JTlYxM1loQjc2eHZYZjRCS3hDblppdGx1Q2pLdjZKalhFTE04dG5JNS1INTQ5R202U2J0RWd6enpMTGRXTDBNZk8zZWxNUkd2V3VsNGJXbVM1SmJiaklyMEJNY3ZOcl84bWd4U09B?oc=5",
+      "title": "For Most Household Cleaning Tasks, Bring Back the Rag - The New York Times",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUNoc2N3S1pvTmhtVkJGcUFFSG1JTlYxM1loQjc2eHZYZjRCS3hDblppdGx1Q2pLdjZKalhFTE04dG5JNS1INTQ5R202U2J0RWd6enpMTGRXTDBNZk8zZWxNUkd2V3VsNGJXbVM1SmJiaklyMEJNY3ZOcl84bWd4U09B?oc=5\" target=\"_blank\">For Most Household Cleaning Tasks, Bring Back the Rag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-26",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUNoc2N3S1pvTmhtVkJGcUFFSG1JTlYxM1loQjc2eHZYZjRCS3hDblppdGx1Q2pLdjZKalhFTE04dG5JNS1INTQ5R202U2J0RWd6enpMTGRXTDBNZk8zZWxNUkd2V3VsNGJXbVM1SmJiaklyMEJNY3ZOcl84bWd4U09B?oc=5",
+      "dedupe_hash": "e51956a4355eabb10a734e9ece312e76",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHB0RFB3LUkzV1hGdlNyYm0xYXZ6Z0dKT3R3UkxnUEpQV3NfZGhmSVdlSnpaNUh4Y3RIUVM1YVNCc1pYblJYZ3ozV043Y01nZGZ1V3dZQjdTYlQyWW9EZlFDY2RRa1k2ZllqNkM2eldqMTVVa2VTWGNZOURTN19zZnk5TlM?oc=5",
+      "title": "Man Stabbed on Upper West Side Bus: NYPD - West Side Rag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHB0RFB3LUkzV1hGdlNyYm0xYXZ6Z0dKT3R3UkxnUEpQV3NfZGhmSVdlSnpaNUh4Y3RIUVM1YVNCc1pYblJYZ3ozV043Y01nZGZ1V3dZQjdTYlQyWW9EZlFDY2RRa1k2ZllqNkM2eldqMTVVa2VTWGNZOURTN19zZnk5TlM?oc=5\" target=\"_blank\">Man Stabbed on Upper West Side Bus: NYPD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Side Rag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-07",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHB0RFB3LUkzV1hGdlNyYm0xYXZ6Z0dKT3R3UkxnUEpQV3NfZGhmSVdlSnpaNUh4Y3RIUVM1YVNCc1pYblJYZ3ozV043Y01nZGZ1V3dZQjdTYlQyWW9EZlFDY2RRa1k2ZllqNkM2eldqMTVVa2VTWGNZOURTN19zZnk5TlM?oc=5",
+      "dedupe_hash": "1bde152d02e9a99ed17ff1d8d41419cd",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGhEaXNtRG1ZTUU4TEE3RkRzZGpSS2lidzlRanA0M1NCUWpsZ3piVmJiY2g0YXZ5MGgxSU9UeGQwQXdMcFZScXhzVXJMQlJmVUw1Y1k1VzFUVlRtTVVwSW90QUNESU5MbmRBSGVIRmdsa2JYMVdZUFM1RXJoTGctQXExam5LX2kwMmdR?oc=5",
+      "title": "Thomm Jutz performs \"Rag and Bone\" on Today in Nashville - WSMV",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGhEaXNtRG1ZTUU4TEE3RkRzZGpSS2lidzlRanA0M1NCUWpsZ3piVmJiY2g0YXZ5MGgxSU9UeGQwQXdMcFZScXhzVXJMQlJmVUw1Y1k1VzFUVlRtTVVwSW90QUNESU5MbmRBSGVIRmdsa2JYMVdZUFM1RXJoTGctQXExam5LX2kwMmdR?oc=5\" target=\"_blank\">Thomm Jutz performs \"Rag and Bone\" on Today in Nashville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-05",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGhEaXNtRG1ZTUU4TEE3RkRzZGpSS2lidzlRanA0M1NCUWpsZ3piVmJiY2g0YXZ5MGgxSU9UeGQwQXdMcFZScXhzVXJMQlJmVUw1Y1k1VzFUVlRtTVVwSW90QUNESU5MbmRBSGVIRmdsa2JYMVdZUFM1RXJoTGctQXExam5LX2kwMmdR?oc=5",
+      "dedupe_hash": "d1457572309bddd4a6e263315e39ef34",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWxZNjZuX1M5Tm1sbkFCSHFsYU9UdFdpdmVfRTcxNkstNWltNFNRWGtYMlVMY283dl9NRl9HNUxmYURISXB5bzVxRzZ2SkJXTmlfTzdlcThMaWM1RFRtOXViYlBrMDFpaTh4VlpfTDI3djlObW9XYlU0S0NzTG0wc25JUTMzVHpVY2JlUzhBY1VycENzMHZQbW5nNzRhOVJzSlNLblpMakV6elpLOXZMVzgtSktSbUdvOVpMNnJOOTI0aVc0Z2ZQT3M2VFRRSUJ1eDJiQmtaRV9rTk9OX1VrR1VTTmdKeTBGR1IyOGFiYw?oc=5",
+      "title": "RAG-Stiftung: RAG-STIFTUNG LAUNCHES AN OFFERING OF BONDS EXCHANGEABLE INTO SHARES OF EVONIK INDUSTRIES AG - TradingView",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWxZNjZuX1M5Tm1sbkFCSHFsYU9UdFdpdmVfRTcxNkstNWltNFNRWGtYMlVMY283dl9NRl9HNUxmYURISXB5bzVxRzZ2SkJXTmlfTzdlcThMaWM1RFRtOXViYlBrMDFpaTh4VlpfTDI3djlObW9XYlU0S0NzTG0wc25JUTMzVHpVY2JlUzhBY1VycENzMHZQbW5nNzRhOVJzSlNLblpMakV6elpLOXZMVzgtSktSbUdvOVpMNnJOOTI0aVc0Z2ZQT3M2VFRRSUJ1eDJiQmtaRV9rTk9OX1VrR1VTTmdKeTBGR1IyOGFiYw?oc=5\" target=\"_blank\">RAG-Stiftung: RAG-STIFTUNG LAUNCHES AN OFFERING OF BONDS EXCHANGEABLE INTO SHARES OF EVONIK INDUSTRIES AG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.997159",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWxZNjZuX1M5Tm1sbkFCSHFsYU9UdFdpdmVfRTcxNkstNWltNFNRWGtYMlVMY283dl9NRl9HNUxmYURISXB5bzVxRzZ2SkJXTmlfTzdlcThMaWM1RFRtOXViYlBrMDFpaTh4VlpfTDI3djlObW9XYlU0S0NzTG0wc25JUTMzVHpVY2JlUzhBY1VycENzMHZQbW5nNzRhOVJzSlNLblpMakV6elpLOXZMVzgtSktSbUdvOVpMNnJOOTI0aVc0Z2ZQT3M2VFRRSUJ1eDJiQmtaRV9rTk9OX1VrR1VTTmdKeTBGR1IyOGFiYw?oc=5",
+      "dedupe_hash": "35cbeb80e884c7b19a501e7c4d609557",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmZDNEtDSjN4bjQ4ZDhrY0x1cU9BemdmSEZkbVRyaWx6Y2VBaHlyR3RWbzhTOFI2SDhSaEpfYjdON0NoUEh2WW9XNUgzY1ctQ0pBbmhYWXM1bUZTdml6MkI0MDF4a1FfaXZBRFFDUjN6NUhySDBwSWo4NkNTcWVTSTU4S1lCU2xaRTBORWdUdFV3TGxLalVr?oc=5",
+      "title": "Skynet implements persistent memory for LLM agents - Let's Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmZDNEtDSjN4bjQ4ZDhrY0x1cU9BemdmSEZkbVRyaWx6Y2VBaHlyR3RWbzhTOFI2SDhSaEpfYjdON0NoUEh2WW9XNUgzY1ctQ0pBbmhYWXM1bUZTdml6MkI0MDF4a1FfaXZBRFFDUjN6NUhySDBwSWo4NkNTcWVTSTU4S1lCU2xaRTBORWdUdFV3TGxLalVr?oc=5\" target=\"_blank\">Skynet implements persistent memory for LLM agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.998169",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmZDNEtDSjN4bjQ4ZDhrY0x1cU9BemdmSEZkbVRyaWx6Y2VBaHlyR3RWbzhTOFI2SDhSaEpfYjdON0NoUEh2WW9XNUgzY1ctQ0pBbmhYWXM1bUZTdml6MkI0MDF4a1FfaXZBRFFDUjN6NUhySDBwSWo4NkNTcWVTSTU4S1lCU2xaRTBORWdUdFV3TGxLalVr?oc=5",
+      "dedupe_hash": "c162dd7b446f1a0907088a5e4f180e8b",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2d0NDFjVlRHZEc2NzUwQzZ1cFQ2LTR5ZzJmTmdSZkd3aFFRQzdNclZ6d0JlUkZHUjFvd2lEV3dzX243RDQ5ZU92MGo2eHJnS1JQcEh6d2hxU3VoUGh1UXR1MUgzR1V0VndNaGNMVEtrNGs5Ry10dDdkNmJZN1JCWUtpQkc2Z2o1R1k4d3I0cjVyLVpkNk5aS2tGODMyeUFzTjR6UEF30gGuAUFVX3lxTE1pR2g1R2FGVjd4T2FlTnIyMTBIb3hZYlI5Q3ZJcktuWEJCX3ZvV1VSd3ZxbzJRMkJXNmhUUnNuR0c1S2FEejdtdl9CdENWZ3RLSEJ6ZzhHMkwtZ2FGRlRMX2EyTWkzSGc1RVlBVUNtLUZwTkJ5aWREN05Qb2JPVDhNNHRJY3BTd0FNT29pSGRhQ29ET0NIYkNMSGxKZnZOU2tNcU52WVU2cDgxT00yQQ?oc=5",
+      "title": "Quincy tavern known for its bar pizza has been sold - NBC Boston",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2d0NDFjVlRHZEc2NzUwQzZ1cFQ2LTR5ZzJmTmdSZkd3aFFRQzdNclZ6d0JlUkZHUjFvd2lEV3dzX243RDQ5ZU92MGo2eHJnS1JQcEh6d2hxU3VoUGh1UXR1MUgzR1V0VndNaGNMVEtrNGs5Ry10dDdkNmJZN1JCWUtpQkc2Z2o1R1k4d3I0cjVyLVpkNk5aS2tGODMyeUFzTjR6UEF30gGuAUFVX3lxTE1pR2g1R2FGVjd4T2FlTnIyMTBIb3hZYlI5Q3ZJcktuWEJCX3ZvV1VSd3ZxbzJRMkJXNmhUUnNuR0c1S2FEejdtdl9CdENWZ3RLSEJ6ZzhHMkwtZ2FGRlRMX2EyTWkzSGc1RVlBVUNtLUZwTkJ5aWREN05Qb2JPVDhNNHRJY3BTd0FNT29pSGRhQ29ET0NIYkNMSGxKZnZOU2tNcU52WVU2cDgxT00yQQ?oc=5\" target=\"_blank\">Quincy tavern known for its bar pizza has been sold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Boston</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-05",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.998169",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2d0NDFjVlRHZEc2NzUwQzZ1cFQ2LTR5ZzJmTmdSZkd3aFFRQzdNclZ6d0JlUkZHUjFvd2lEV3dzX243RDQ5ZU92MGo2eHJnS1JQcEh6d2hxU3VoUGh1UXR1MUgzR1V0VndNaGNMVEtrNGs5Ry10dDdkNmJZN1JCWUtpQkc2Z2o1R1k4d3I0cjVyLVpkNk5aS2tGODMyeUFzTjR6UEF30gGuAUFVX3lxTE1pR2g1R2FGVjd4T2FlTnIyMTBIb3hZYlI5Q3ZJcktuWEJCX3ZvV1VSd3ZxbzJRMkJXNmhUUnNuR0c1S2FEejdtdl9CdENWZ3RLSEJ6ZzhHMkwtZ2FGRlRMX2EyTWkzSGc1RVlBVUNtLUZwTkJ5aWREN05Qb2JPVDhNNHRJY3BTd0FNT29pSGRhQ29ET0NIYkNMSGxKZnZOU2tNcU52WVU2cDgxT00yQQ?oc=5",
+      "dedupe_hash": "efc017681fd16c5b63070a4e3069f142",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlZ1RDV0QWxVM2pPeUNhSDlqc2M5d3ZBSEJfN3h1elFEVmhZNjVic0NIamlqYTFrMGtNdTUyR1RMOHRPQmNwSVFUdmpZOGtoOG5EZmp5VWluSWgtOW9BSTdmaHdnbVRRRGZiTnBsZTFFVWg1c3hvZFl3OWROcTNCWGNIeHRja1JrRUlWZlpZbnZDWk1KMkU4bkNyUk5TUQ?oc=5",
+      "title": "Kuba Rogut: Is RAG Dead or Evolving? - StartupHub.ai",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWlZ1RDV0QWxVM2pPeUNhSDlqc2M5d3ZBSEJfN3h1elFEVmhZNjVic0NIamlqYTFrMGtNdTUyR1RMOHRPQmNwSVFUdmpZOGtoOG5EZmp5VWluSWgtOW9BSTdmaHdnbVRRRGZiTnBsZTFFVWg1c3hvZFl3OWROcTNCWGNIeHRja1JrRUlWZlpZbnZDWk1KMkU4bkNyUk5TUQ?oc=5\" target=\"_blank\">Kuba Rogut: Is RAG Dead or Evolving?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.998169",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlZ1RDV0QWxVM2pPeUNhSDlqc2M5d3ZBSEJfN3h1elFEVmhZNjVic0NIamlqYTFrMGtNdTUyR1RMOHRPQmNwSVFUdmpZOGtoOG5EZmp5VWluSWgtOW9BSTdmaHdnbVRRRGZiTnBsZTFFVWg1c3hvZFl3OWROcTNCWGNIeHRja1JrRUlWZlpZbnZDWk1KMkU4bkNyUk5TUQ?oc=5",
+      "dedupe_hash": "fc7413a63a383fe08522c4a66fe9fd64",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGw5UExBeUVyV2VkVDJsWDJFZmc1dlFGNEtydXQ2aHpTRjdxb2psT3M5MGNYZFo5eUdCN2g4cmFmUkNaUjFINnBJR05MM2lpVThKSlI4MUk0ZlFxc1pfLVpOa3FPV2J4eGxJQTdYVXFmMXdva3lzaXdTN0hsNGE4eWYwNlV3U3l4cWRoaVdpUQ?oc=5",
+      "title": "Sitting Shiva for my Beloved Country, America - OB Rag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGw5UExBeUVyV2VkVDJsWDJFZmc1dlFGNEtydXQ2aHpTRjdxb2psT3M5MGNYZFo5eUdCN2g4cmFmUkNaUjFINnBJR05MM2lpVThKSlI4MUk0ZlFxc1pfLVpOa3FPV2J4eGxJQTdYVXFmMXdva3lzaXdTN0hsNGE4eWYwNlV3U3l4cWRoaVdpUQ?oc=5\" target=\"_blank\">Sitting Shiva for my Beloved Country, America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OB Rag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-06",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGw5UExBeUVyV2VkVDJsWDJFZmc1dlFGNEtydXQ2aHpTRjdxb2psT3M5MGNYZFo5eUdCN2g4cmFmUkNaUjFINnBJR05MM2lpVThKSlI4MUk0ZlFxc1pfLVpOa3FPV2J4eGxJQTdYVXFmMXdva3lzaXdTN0hsNGE4eWYwNlV3U3l4cWRoaVdpUQ?oc=5",
+      "dedupe_hash": "1e2a532702c9b0b322f918447b1342bc",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXBoZkR3TVVES09xcEwxTmdYVlgxdmNQWWJxdTIwLWl5OFhDaHFDUE5ndTl4TVZ0bHJ3NHREYWJoN0ZPLThybHVpbFhBLTR3RTQzcWprTVdUUTBVck5DaDdSMFhnYmFUcVg1c1FmbFBFbmktLWZLM3FIT0VNQldHS3VHWnVpdWFaZGZ0UGRQQ0VfY3FLUGZCTDFpUFNpdkNjUU1FUWlR?oc=5",
+      "title": "RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXBoZkR3TVVES09xcEwxTmdYVlgxdmNQWWJxdTIwLWl5OFhDaHFDUE5ndTl4TVZ0bHJ3NHREYWJoN0ZPLThybHVpbFhBLTR3RTQzcWprTVdUUTBVck5DaDdSMFhnYmFUcVg1c1FmbFBFbmktLWZLM3FIT0VNQldHS3VHWnVpdWFaZGZ0UGRQQ0VfY3FLUGZCTDFpUFNpdkNjUU1FUWlR?oc=5\" target=\"_blank\">RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-01",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXBoZkR3TVVES09xcEwxTmdYVlgxdmNQWWJxdTIwLWl5OFhDaHFDUE5ndTl4TVZ0bHJ3NHREYWJoN0ZPLThybHVpbFhBLTR3RTQzcWprTVdUUTBVck5DaDdSMFhnYmFUcVg1c1FmbFBFbmktLWZLM3FIT0VNQldHS3VHWnVpdWFaZGZ0UGRQQ0VfY3FLUGZCTDFpUFNpdkNjUU1FUWlR?oc=5",
+      "dedupe_hash": "4f53015d2967eac81123cd2da9cc0ff5",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQmJKb3Q2TElHMnhLSHRrdHg3U3F4MGJwRjhzYTBCRUNaM1V3TW44VTZHaVlLQkgzOUk3dDRkbnRPX2VDSGZ1d1JzcWdXYm1Bc2ktWHNUZnh6VklzcEV2YTNndF9qNDFhaUJfdjZwN09fbHNTay1wOTY2bnFSeUpranN5bVJqbjhaT3ZoMmhLVlhiM25PZ3k5TFNSdzgtaGFUMHY1UFlqd0VzQjRCYVBVdDBPSEdZSmhLTVk2My15OHdzVWE2Wk9yck9Yc1FVNXk1VHRuQjdUemFFeUtKNlZNMXZfQVZ0MkR1Rm1iR2dobERQak0?oc=5",
+      "title": "RAG Stiftung - Launches An Offering Of Bonds Exchangeable Into Shares Of Evonik Industries AG - TradingView",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQmJKb3Q2TElHMnhLSHRrdHg3U3F4MGJwRjhzYTBCRUNaM1V3TW44VTZHaVlLQkgzOUk3dDRkbnRPX2VDSGZ1d1JzcWdXYm1Bc2ktWHNUZnh6VklzcEV2YTNndF9qNDFhaUJfdjZwN09fbHNTay1wOTY2bnFSeUpranN5bVJqbjhaT3ZoMmhLVlhiM25PZ3k5TFNSdzgtaGFUMHY1UFlqd0VzQjRCYVBVdDBPSEdZSmhLTVk2My15OHdzVWE2Wk9yck9Yc1FVNXk1VHRuQjdUemFFeUtKNlZNMXZfQVZ0MkR1Rm1iR2dobERQak0?oc=5\" target=\"_blank\">RAG Stiftung - Launches An Offering Of Bonds Exchangeable Into Shares Of Evonik Industries AG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQmJKb3Q2TElHMnhLSHRrdHg3U3F4MGJwRjhzYTBCRUNaM1V3TW44VTZHaVlLQkgzOUk3dDRkbnRPX2VDSGZ1d1JzcWdXYm1Bc2ktWHNUZnh6VklzcEV2YTNndF9qNDFhaUJfdjZwN09fbHNTay1wOTY2bnFSeUpranN5bVJqbjhaT3ZoMmhLVlhiM25PZ3k5TFNSdzgtaGFUMHY1UFlqd0VzQjRCYVBVdDBPSEdZSmhLTVk2My15OHdzVWE2Wk9yck9Yc1FVNXk1VHRuQjdUemFFeUtKNlZNMXZfQVZ0MkR1Rm1iR2dobERQak0?oc=5",
+      "dedupe_hash": "c08dc5f4fe94d40fda280e9bd7c8e5fb",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUNtbTV1aThCS0NaaTBIcmNPMlBxbjZacDJ1Ym1WZl9nOVV5WGVNNjNaeFI1OVhyY2xya09zV1hfeV92YTNwcENHUURjU2NCMFEzWDFMQzQ4N0VSdTEwVVJCZ1pjME1VTDhDa3MwUm5ZWmpyZGk5ZXByNkZpazFONjN3LTVrc3c?oc=5",
+      "title": "More on the Dangerous Housing Project of Fanita Ranch - OB Rag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUNtbTV1aThCS0NaaTBIcmNPMlBxbjZacDJ1Ym1WZl9nOVV5WGVNNjNaeFI1OVhyY2xya09zV1hfeV92YTNwcENHUURjU2NCMFEzWDFMQzQ4N0VSdTEwVVJCZ1pjME1VTDhDa3MwUm5ZWmpyZGk5ZXByNkZpazFONjN3LTVrc3c?oc=5\" target=\"_blank\">More on the Dangerous Housing Project of Fanita Ranch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OB Rag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUNtbTV1aThCS0NaaTBIcmNPMlBxbjZacDJ1Ym1WZl9nOVV5WGVNNjNaeFI1OVhyY2xya09zV1hfeV92YTNwcENHUURjU2NCMFEzWDFMQzQ4N0VSdTEwVVJCZ1pjME1VTDhDa3MwUm5ZWmpyZGk5ZXByNkZpazFONjN3LTVrc3c?oc=5",
+      "dedupe_hash": "8e6cbd7db9d68fcf6de117936c104dda",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92b2dtZ0ktV1RiNzgwandLRkRpSDBISDlXTUJrXzk2UzJxazIyWkY4UWVMb2poRmxMdkxBVk5BeHFyZ1U3SEQwbXlMUGxXZXBEM0QtcDRNT0R2RkNzMHc5Zk1HSWNsSXlLLVhmMUg0VGstcldoZDcybTVVcjJQQQ?oc=5",
+      "title": "Rug weaving with Bohemian Rag Rugs - kaaltv.com",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE92b2dtZ0ktV1RiNzgwandLRkRpSDBISDlXTUJrXzk2UzJxazIyWkY4UWVMb2poRmxMdkxBVk5BeHFyZ1U3SEQwbXlMUGxXZXBEM0QtcDRNT0R2RkNzMHc5Zk1HSWNsSXlLLVhmMUg0VGstcldoZDcybTVVcjJQQQ?oc=5\" target=\"_blank\">Rug weaving with Bohemian Rag Rugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kaaltv.com</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-04",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92b2dtZ0ktV1RiNzgwandLRkRpSDBISDlXTUJrXzk2UzJxazIyWkY4UWVMb2poRmxMdkxBVk5BeHFyZ1U3SEQwbXlMUGxXZXBEM0QtcDRNT0R2RkNzMHc5Zk1HSWNsSXlLLVhmMUg0VGstcldoZDcybTVVcjJQQQ?oc=5",
+      "dedupe_hash": "47116f590870253ed9d37b3eaadd11ea",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnJhVkhEUy03aGNfX3FXLWRqZTc1YjNUY1lCaVp0cEZubnJZc3lJSmFiU0pZX2RaTjFrS1ZuenhmNzhsUEk4YUNnczNJZklSYjFETzMzZlVqUHBYNkNQdTBZQ1lwdDJUTGxGT3k4dDB0aXRIUEo5bU5MOVFsSjJQdU42QzVtWlEtMkFxOUJyZlh6cFFBbjZUUmg0cnBuQ1RockFXU0JibDFMMmsydHAwa3NQR0prc25vSDMxVGxBVWZlYkFJdnc?oc=5",
+      "title": "Oh! Mondo Duplantis\u2019 40-0 Pole Vaulting Win Streak Stopped In Sweden \u2013 Ex-LSU Star\u2019s Last Loss Was In 2023 - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnJhVkhEUy03aGNfX3FXLWRqZTc1YjNUY1lCaVp0cEZubnJZc3lJSmFiU0pZX2RaTjFrS1ZuenhmNzhsUEk4YUNnczNJZklSYjFETzMzZlVqUHBYNkNQdTBZQ1lwdDJUTGxGT3k4dDB0aXRIUEo5bU5MOVFsSjJQdU42QzVtWlEtMkFxOUJyZlh6cFFBbjZUUmg0cnBuQ1RockFXU0JibDFMMmsydHAwa3NQR0prc25vSDMxVGxBVWZlYkFJdnc?oc=5\" target=\"_blank\">Oh! Mondo Duplantis\u2019 40-0 Pole Vaulting Win Streak Stopped In Sweden \u2013 Ex-LSU Star\u2019s Last Loss Was In 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnJhVkhEUy03aGNfX3FXLWRqZTc1YjNUY1lCaVp0cEZubnJZc3lJSmFiU0pZX2RaTjFrS1ZuenhmNzhsUEk4YUNnczNJZklSYjFETzMzZlVqUHBYNkNQdTBZQ1lwdDJUTGxGT3k4dDB0aXRIUEo5bU5MOVFsSjJQdU42QzVtWlEtMkFxOUJyZlh6cFFBbjZUUmg0cnBuQ1RockFXU0JibDFMMmsydHAwa3NQR0prc25vSDMxVGxBVWZlYkFJdnc?oc=5",
+      "dedupe_hash": "09d95ec8c4c59989710206866dcb9079",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWdBVU1NUFdieHBzZVp3RGNpc1huMDdGWGxPN0Vpam91XzFRbDFGaDQ3QzJ4bEpyZklCYjFnNkpCN3o1NGgtaHJyNXVuSS12NDRJa2tvZ0hwVDZSRjVYbGZqV1o3V29EREZ5ZF9zUWlNTzlWZzM4d1pCX2hpUDJ0ZFloWk5NUG45a0pNalFVV2V2cTU4VXlDUFFhTWI3c2phY1draFZTeW9Kb25XN241NXRESElNNmJGbUc4MmlxaVdHQdIBzwFBVV95cUxQSXkyM045RXByQnUtTGJkYXRhOXhHdmxJR0l6VFJSQnJUR1ZKLWxLWldYeFFoR3pjZElVY05TX2FpcGJaZ1M0WjBFakk0UHJGMVNlS0UyTFh0RlFaM1Eyc003TkRLTVJnTElWbl9HMXhibG5HQnY2SjhzdDlVS1I0TnZYZktxWkJ3WWhfaEtSMG1QSnJBYjVBVEQ2RU1JV1ZDMXJqelFsRlVfLVk5cDBVOUR6ejhEek9yMDBaVVJHblpRZk02a1lzQ1d1dG9tRUk?oc=5",
+      "title": "Anumanapakshi teaser: Rag Mayur entertains with dark comedy in this one - Cinema Express",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWdBVU1NUFdieHBzZVp3RGNpc1huMDdGWGxPN0Vpam91XzFRbDFGaDQ3QzJ4bEpyZklCYjFnNkpCN3o1NGgtaHJyNXVuSS12NDRJa2tvZ0hwVDZSRjVYbGZqV1o3V29EREZ5ZF9zUWlNTzlWZzM4d1pCX2hpUDJ0ZFloWk5NUG45a0pNalFVV2V2cTU4VXlDUFFhTWI3c2phY1draFZTeW9Kb25XN241NXRESElNNmJGbUc4MmlxaVdHQdIBzwFBVV95cUxQSXkyM045RXByQnUtTGJkYXRhOXhHdmxJR0l6VFJSQnJUR1ZKLWxLWldYeFFoR3pjZElVY05TX2FpcGJaZ1M0WjBFakk0UHJGMVNlS0UyTFh0RlFaM1Eyc003TkRLTVJnTElWbl9HMXhibG5HQnY2SjhzdDlVS1I0TnZYZktxWkJ3WWhfaEtSMG1QSnJBYjVBVEQ2RU1JV1ZDMXJqelFsRlVfLVk5cDBVOUR6ejhEek9yMDBaVVJHblpRZk02a1lzQ1d1dG9tRUk?oc=5\" target=\"_blank\">Anumanapakshi teaser: Rag Mayur entertains with dark comedy in this one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cinema Express</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWdBVU1NUFdieHBzZVp3RGNpc1huMDdGWGxPN0Vpam91XzFRbDFGaDQ3QzJ4bEpyZklCYjFnNkpCN3o1NGgtaHJyNXVuSS12NDRJa2tvZ0hwVDZSRjVYbGZqV1o3V29EREZ5ZF9zUWlNTzlWZzM4d1pCX2hpUDJ0ZFloWk5NUG45a0pNalFVV2V2cTU4VXlDUFFhTWI3c2phY1draFZTeW9Kb25XN241NXRESElNNmJGbUc4MmlxaVdHQdIBzwFBVV95cUxQSXkyM045RXByQnUtTGJkYXRhOXhHdmxJR0l6VFJSQnJUR1ZKLWxLWldYeFFoR3pjZElVY05TX2FpcGJaZ1M0WjBFakk0UHJGMVNlS0UyTFh0RlFaM1Eyc003TkRLTVJnTElWbl9HMXhibG5HQnY2SjhzdDlVS1I0TnZYZktxWkJ3WWhfaEtSMG1QSnJBYjVBVEQ2RU1JV1ZDMXJqelFsRlVfLVk5cDBVOUR6ejhEek9yMDBaVVJHblpRZk02a1lzQ1d1dG9tRUk?oc=5",
+      "dedupe_hash": "c9c048372c3e7e1b6b60f0fa85478cc4",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HNU9GSThRWDJscjFDcUNTQWlTeHJqemFCQldLNjhmY3FLamRFYWdodnBPQWNVLTB2N3J1TXdNNUs2MWJKYlkxZWlB?oc=5",
+      "title": "Top 20+ Agentic RAG Frameworks - AIMultiple",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HNU9GSThRWDJscjFDcUNTQWlTeHJqemFCQldLNjhmY3FLamRFYWdodnBPQWNVLTB2N3J1TXdNNUs2MWJKYlkxZWlB?oc=5\" target=\"_blank\">Top 20+ Agentic RAG Frameworks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIMultiple</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-04",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HNU9GSThRWDJscjFDcUNTQWlTeHJqemFCQldLNjhmY3FLamRFYWdodnBPQWNVLTB2N3J1TXdNNUs2MWJKYlkxZWlB?oc=5",
+      "dedupe_hash": "a99b57e24efd6f8b011eadda751f31e8",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjE4RFdwM3M5bmNwUy1qVUJPNG5BYzlEMWE1eVF5SnV0UEtOT0tyaHV6WlRYWUdEMnQzRXE4aFFkX1RCTXVEVEl1cU9NbmV6UEpRSlZpUjQ1eFVtR05GMjZKWTQ0b1gzTFBOWkRyQmZNSkZmT1FyS24zajFlbEJHUkVoNVpRNlZFMzBTYlFsdkJDTnUwVE13R3NXbWVCQnZvcU5JQUFQYTVaZE1xTkZPbkZrMXBwQ2NDWEE?oc=5",
+      "title": "LSU Football Grabs 2 More Commitments In 3-Star Prospects WR Cade Cooper And CB Markez Davis - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjE4RFdwM3M5bmNwUy1qVUJPNG5BYzlEMWE1eVF5SnV0UEtOT0tyaHV6WlRYWUdEMnQzRXE4aFFkX1RCTXVEVEl1cU9NbmV6UEpRSlZpUjQ1eFVtR05GMjZKWTQ0b1gzTFBOWkRyQmZNSkZmT1FyS24zajFlbEJHUkVoNVpRNlZFMzBTYlFsdkJDTnUwVE13R3NXbWVCQnZvcU5JQUFQYTVaZE1xTkZPbkZrMXBwQ2NDWEE?oc=5\" target=\"_blank\">LSU Football Grabs 2 More Commitments In 3-Star Prospects WR Cade Cooper And CB Markez Davis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjE4RFdwM3M5bmNwUy1qVUJPNG5BYzlEMWE1eVF5SnV0UEtOT0tyaHV6WlRYWUdEMnQzRXE4aFFkX1RCTXVEVEl1cU9NbmV6UEpRSlZpUjQ1eFVtR05GMjZKWTQ0b1gzTFBOWkRyQmZNSkZmT1FyS24zajFlbEJHUkVoNVpRNlZFMzBTYlFsdkJDTnUwVE13R3NXbWVCQnZvcU5JQUFQYTVaZE1xTkZPbkZrMXBwQ2NDWEE?oc=5",
+      "dedupe_hash": "18e54d8a59cc8e2e9dfc62be110ffcb7",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFBQbWI1VlF6eGx0bXNQNmlKeVB2ZTNzS2VCTHBTS1VYNE81TG1XNnZRT2R4VXVaQlFLTThNdmlRRExvZTdQZ3I5MVJRX1U2TGhwc2ExVWNuaTdvR0hfM2t4eWxYdFI5SVhRMjFfdXA2VS03cC11MzA5a3NIaVIxQ2dIbXlBMHVIUS1ERHhLTWpNRUJMVGc?oc=5",
+      "title": "RAG Is Burning Money \u2014 I Built a Cost Control Layer to Fix It - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFBQbWI1VlF6eGx0bXNQNmlKeVB2ZTNzS2VCTHBTS1VYNE81TG1XNnZRT2R4VXVaQlFLTThNdmlRRExvZTdQZ3I5MVJRX1U2TGhwc2ExVWNuaTdvR0hfM2t4eWxYdFI5SVhRMjFfdXA2VS03cC11MzA5a3NIaVIxQ2dIbXlBMHVIUS1ERHhLTWpNRUJMVGc?oc=5\" target=\"_blank\">RAG Is Burning Money \u2014 I Built a Cost Control Layer to Fix It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-29",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFBQbWI1VlF6eGx0bXNQNmlKeVB2ZTNzS2VCTHBTS1VYNE81TG1XNnZRT2R4VXVaQlFLTThNdmlRRExvZTdQZ3I5MVJRX1U2TGhwc2ExVWNuaTdvR0hfM2t4eWxYdFI5SVhRMjFfdXA2VS03cC11MzA5a3NIaVIxQ2dIbXlBMHVIUS1ERHhLTWpNRUJMVGc?oc=5",
+      "dedupe_hash": "9cd05db54a9bd1f233d095a55a1594af",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlBJTk03Sl9LQzBxSFJKMWtBTENNX2FBalFDNU9tN0tYT3daX2x2WU5QVE1PcTQtX09rbGhETlpRQUlzT2R5U1VwZ1VHY2xhcVVYM0NtRzFnNVBqTVlCam8ySGJRTjI0bFNKd0VLN3VtLXZaNFVHMUdhekF5dmI1aVR2Q1JMOTRlcUFPMjVjZnozZ3BWRlg0RkdhQUFPMEppVFJCVHNXSHU5RWN6TnVwS1NpYjFDREFzR0E?oc=5",
+      "title": "Anumana Pakshi Starring Rag Mayur & Merin Philip Unveiled - Telugu Times",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlBJTk03Sl9LQzBxSFJKMWtBTENNX2FBalFDNU9tN0tYT3daX2x2WU5QVE1PcTQtX09rbGhETlpRQUlzT2R5U1VwZ1VHY2xhcVVYM0NtRzFnNVBqTVlCam8ySGJRTjI0bFNKd0VLN3VtLXZaNFVHMUdhekF5dmI1aVR2Q1JMOTRlcUFPMjVjZnozZ3BWRlg0RkdhQUFPMEppVFJCVHNXSHU5RWN6TnVwS1NpYjFDREFzR0E?oc=5\" target=\"_blank\">Anumana Pakshi Starring Rag Mayur & Merin Philip Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telugu Times</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlBJTk03Sl9LQzBxSFJKMWtBTENNX2FBalFDNU9tN0tYT3daX2x2WU5QVE1PcTQtX09rbGhETlpRQUlzT2R5U1VwZ1VHY2xhcVVYM0NtRzFnNVBqTVlCam8ySGJRTjI0bFNKd0VLN3VtLXZaNFVHMUdhekF5dmI1aVR2Q1JMOTRlcUFPMjVjZnozZ3BWRlg0RkdhQUFPMEppVFJCVHNXSHU5RWN6TnVwS1NpYjFDREFzR0E?oc=5",
+      "dedupe_hash": "47ce988eb8a1f3231b03e9159921eb5b",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHB4QkgySHhCX3ROMGlMWlpGNGhmZF82YlBGLTl3cU52X2lBaG85eDNUM21vYWo5X2EySmt4TnV2Mm1HSmFfS2ZHQk40Ry1YOXpqc0FhQWRIc3JMR1A3UGJCZEp5MHd6S3RQRGs2dUU5YzRPVHFDdTB5TS14UFh1dklWYzNXb1B0bFdybFRJWXFFc21Mbm9VSVFHaXVoa2pJMUJnRjktSXZGVnJjMmRoRUtPSXBmOGwwMGc?oc=5",
+      "title": "Warren Morris 30 Years Later \u2013 3:29 P.M. Today Marks The Moment \u201cThe World Changed\u201d On June 8, 1996 - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHB4QkgySHhCX3ROMGlMWlpGNGhmZF82YlBGLTl3cU52X2lBaG85eDNUM21vYWo5X2EySmt4TnV2Mm1HSmFfS2ZHQk40Ry1YOXpqc0FhQWRIc3JMR1A3UGJCZEp5MHd6S3RQRGs2dUU5YzRPVHFDdTB5TS14UFh1dklWYzNXb1B0bFdybFRJWXFFc21Mbm9VSVFHaXVoa2pJMUJnRjktSXZGVnJjMmRoRUtPSXBmOGwwMGc?oc=5\" target=\"_blank\">Warren Morris 30 Years Later \u2013 3:29 P.M. Today Marks The Moment \u201cThe World Changed\u201d On June 8, 1996</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHB4QkgySHhCX3ROMGlMWlpGNGhmZF82YlBGLTl3cU52X2lBaG85eDNUM21vYWo5X2EySmt4TnV2Mm1HSmFfS2ZHQk40Ry1YOXpqc0FhQWRIc3JMR1A3UGJCZEp5MHd6S3RQRGs2dUU5YzRPVHFDdTB5TS14UFh1dklWYzNXb1B0bFdybFRJWXFFc21Mbm9VSVFHaXVoa2pJMUJnRjktSXZGVnJjMmRoRUtPSXBmOGwwMGc?oc=5",
+      "dedupe_hash": "28550948f43e0ad8e9df751da960e520",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaThBZkdHZHZnU3VYV1haajc2M1BXRlQ0MldxOVQ4S25XeE5rY0lWVG55Y3ROcDVHMnhmTlNDcVJJMVFveklwb0p2dFFrdTBEQWF1R05tM3JvbUVXZXZZUlloQ2RJOTBKR0hXUDZPaUZsamR0ekJmeExyYmJpVlotSy1fMENjTXU2N1RiSFdQRDlLcmlvd2pCVGpwcVBJQi1vYVNNLTZISzBHdC1LMEFxdlUxaFFzS0xENy10RXAyM3M5d2hfMVphX0ZOdVNoYnhZSjNzU1hhUzU4c29Ed1hkR1R6ek9KM0tCb2pBbXFn?oc=5",
+      "title": "Share The Harvest Farm To Partner With Rag & Bone For Shopping Event Benefiting Local Food Access - jameslanepost.com",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaThBZkdHZHZnU3VYV1haajc2M1BXRlQ0MldxOVQ4S25XeE5rY0lWVG55Y3ROcDVHMnhmTlNDcVJJMVFveklwb0p2dFFrdTBEQWF1R05tM3JvbUVXZXZZUlloQ2RJOTBKR0hXUDZPaUZsamR0ekJmeExyYmJpVlotSy1fMENjTXU2N1RiSFdQRDlLcmlvd2pCVGpwcVBJQi1vYVNNLTZISzBHdC1LMEFxdlUxaFFzS0xENy10RXAyM3M5d2hfMVphX0ZOdVNoYnhZSjNzU1hhUzU4c29Ed1hkR1R6ek9KM0tCb2pBbXFn?oc=5\" target=\"_blank\">Share The Harvest Farm To Partner With Rag & Bone For Shopping Event Benefiting Local Food Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jameslanepost.com</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaThBZkdHZHZnU3VYV1haajc2M1BXRlQ0MldxOVQ4S25XeE5rY0lWVG55Y3ROcDVHMnhmTlNDcVJJMVFveklwb0p2dFFrdTBEQWF1R05tM3JvbUVXZXZZUlloQ2RJOTBKR0hXUDZPaUZsamR0ekJmeExyYmJpVlotSy1fMENjTXU2N1RiSFdQRDlLcmlvd2pCVGpwcVBJQi1vYVNNLTZISzBHdC1LMEFxdlUxaFFzS0xENy10RXAyM3M5d2hfMVphX0ZOdVNoYnhZSjNzU1hhUzU4c29Ed1hkR1R6ek9KM0tCb2pBbXFn?oc=5",
+      "dedupe_hash": "fda20037401c58ccaf94bc790f889e51",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0FDdmtQVkt6WVBrbHpybVRHY2cwdGt0TWwtYlJVNFZ5OXpTd05mVzJBQ19ZZjB4eVNWd0VkYjNEQjFYLVd2dXVSM0Ywb0xxWWI5aVFNS3czSXBwamhWZWpoeGY5NEF4MTFnT05IY05VQXFVTzdrSXY2ZGM4OHZoV1NlNHZYeW1Udm4yTklRNkp4ZEZPMDRNMm90VTlhdU5uQXkw?oc=5",
+      "title": "RAG Is Blind to Time \u2014 I Built a Temporal Layer to Fix It in Production - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0FDdmtQVkt6WVBrbHpybVRHY2cwdGt0TWwtYlJVNFZ5OXpTd05mVzJBQ19ZZjB4eVNWd0VkYjNEQjFYLVd2dXVSM0Ywb0xxWWI5aVFNS3czSXBwamhWZWpoeGY5NEF4MTFnT05IY05VQXFVTzdrSXY2ZGM4OHZoV1NlNHZYeW1Udm4yTklRNkp4ZEZPMDRNMm90VTlhdU5uQXkw?oc=5\" target=\"_blank\">RAG Is Blind to Time \u2014 I Built a Temporal Layer to Fix It in Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-09",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:50.999162",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0FDdmtQVkt6WVBrbHpybVRHY2cwdGt0TWwtYlJVNFZ5OXpTd05mVzJBQ19ZZjB4eVNWd0VkYjNEQjFYLVd2dXVSM0Ywb0xxWWI5aVFNS3czSXBwamhWZWpoeGY5NEF4MTFnT05IY05VQXFVTzdrSXY2ZGM4OHZoV1NlNHZYeW1Udm4yTklRNkp4ZEZPMDRNMm90VTlhdU5uQXkw?oc=5",
+      "dedupe_hash": "9d66a338be12eac27076b746cdc8bb95",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfTGl1Z0ZZSjNsSWtheW9ZUE1fOVdOcHp1clFfZXhhSjlNR1E4aE9MWS1HTEpKTXF5SUp0Wmt1QU1lb0JGN0VXVEt5d09XenZxNzNmWUtuLXNMQU5tUURyVFU5LTNUa1lDaVM4RHhLcEw?oc=5",
+      "title": "A sister remembers WORT's Harry Rag - Isthmus | Madison, Wisconsin",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfTGl1Z0ZZSjNsSWtheW9ZUE1fOVdOcHp1clFfZXhhSjlNR1E4aE9MWS1HTEpKTXF5SUp0Wmt1QU1lb0JGN0VXVEt5d09XenZxNzNmWUtuLXNMQU5tUURyVFU5LTNUa1lDaVM4RHhLcEw?oc=5\" target=\"_blank\">A sister remembers WORT's Harry Rag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Isthmus | Madison, Wisconsin</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-01-22",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfTGl1Z0ZZSjNsSWtheW9ZUE1fOVdOcHp1clFfZXhhSjlNR1E4aE9MWS1HTEpKTXF5SUp0Wmt1QU1lb0JGN0VXVEt5d09XenZxNzNmWUtuLXNMQU5tUURyVFU5LTNUa1lDaVM4RHhLcEw?oc=5",
+      "dedupe_hash": "4e4ef67a12a919873fc4c2a3601c683d",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5SaklRaXpCcGM3Q2N3NXR1a1BVQk9MaFJ1dUtIM1Zfb3hrTkhsa0VRNGxiaG52Tm9vampfOHFmM2x2WGVUX25JRWQ5cWhuQU11Q1NtN0xfYWFkYVpYcmVMYUlnMjh3MzNIaUtPUEluOVYwOFZLak1Ddmd2d1dPeDlyZDFncEZkc0tXM0RJMzduYUFMdW9lMVI3MUw?oc=5",
+      "title": "It\u2019s Time For The Annual Hill Rag Photo Contest - HillRag",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5SaklRaXpCcGM3Q2N3NXR1a1BVQk9MaFJ1dUtIM1Zfb3hrTkhsa0VRNGxiaG52Tm9vampfOHFmM2x2WGVUX25JRWQ5cWhuQU11Q1NtN0xfYWFkYVpYcmVMYUlnMjh3MzNIaUtPUEluOVYwOFZLak1Ddmd2d1dPeDlyZDFncEZkc0tXM0RJMzduYUFMdW9lMVI3MUw?oc=5\" target=\"_blank\">It\u2019s Time For The Annual Hill Rag Photo Contest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HillRag</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-27",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5SaklRaXpCcGM3Q2N3NXR1a1BVQk9MaFJ1dUtIM1Zfb3hrTkhsa0VRNGxiaG52Tm9vampfOHFmM2x2WGVUX25JRWQ5cWhuQU11Q1NtN0xfYWFkYVpYcmVMYUlnMjh3MzNIaUtPUEluOVYwOFZLak1Ddmd2d1dPeDlyZDFncEZkc0tXM0RJMzduYUFMdW9lMVI3MUw?oc=5",
+      "dedupe_hash": "f05e8291cc9acbabefc899c878d8ca8f",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYQXVQMHpwQ1MxdDRtNW5aMi1fWWhoSjA4VXZlaTdMRTM5dVV2YTItVDVYVHZDYUZ4c1JUcndMTDlybWxNYUdHbmVlY1YtSXB4dF90WHNOWmJ6Ym5tMkJV?oc=5",
+      "title": "Linear RAG scanning mediates editing of Ig\u03ba variable region repertoires - Nature",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYQXVQMHpwQ1MxdDRtNW5aMi1fWWhoSjA4VXZlaTdMRTM5dVV2YTItVDVYVHZDYUZ4c1JUcndMTDlybWxNYUdHbmVlY1YtSXB4dF90WHNOWmJ6Ym5tMkJV?oc=5\" target=\"_blank\">Linear RAG scanning mediates editing of Ig\u03ba variable region repertoires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-04-15",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYQXVQMHpwQ1MxdDRtNW5aMi1fWWhoSjA4VXZlaTdMRTM5dVV2YTItVDVYVHZDYUZ4c1JUcndMTDlybWxNYUdHbmVlY1YtSXB4dF90WHNOWmJ6Ym5tMkJV?oc=5",
+      "dedupe_hash": "179d9ccdf2d54653677ed3122e69c461",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdIRXhCSWlpa1Q4ZkNUQUdKVzhNWFh1VlNIRkw1Z3A4ZHYwWktvZmxtRVh0WDQ0cjJqRVFERGhUYnhadTA1bW12dVFJaWpZMWphQVN4YklnbE9YSHJTc3d1MWNXS19VTC1iSGhfZ3IzZmNqaTlTSlhlUDlzU3c2Mk5FaFA2SGdJNno5THd3NkRDSkVSaFRPVFlfbkFST0RxeE1URC1GZTlwMFR2XzJqeWU2QlFfa3lhbWc?oc=5",
+      "title": "Skip Bertman National Coach Of The Year To Be Announced Saturday At The College World Series - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdIRXhCSWlpa1Q4ZkNUQUdKVzhNWFh1VlNIRkw1Z3A4ZHYwWktvZmxtRVh0WDQ0cjJqRVFERGhUYnhadTA1bW12dVFJaWpZMWphQVN4YklnbE9YSHJTc3d1MWNXS19VTC1iSGhfZ3IzZmNqaTlTSlhlUDlzU3c2Mk5FaFA2SGdJNno5THd3NkRDSkVSaFRPVFlfbkFST0RxeE1URC1GZTlwMFR2XzJqeWU2QlFfa3lhbWc?oc=5\" target=\"_blank\">Skip Bertman National Coach Of The Year To Be Announced Saturday At The College World Series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-07",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdIRXhCSWlpa1Q4ZkNUQUdKVzhNWFh1VlNIRkw1Z3A4ZHYwWktvZmxtRVh0WDQ0cjJqRVFERGhUYnhadTA1bW12dVFJaWpZMWphQVN4YklnbE9YSHJTc3d1MWNXS19VTC1iSGhfZ3IzZmNqaTlTSlhlUDlzU3c2Mk5FaFA2SGdJNno5THd3NkRDSkVSaFRPVFlfbkFST0RxeE1URC1GZTlwMFR2XzJqeWU2QlFfa3lhbWc?oc=5",
+      "dedupe_hash": "b59548073cd9c10e05a03a0419eb290b",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVdLWkpvRXg3RExXenFULTByY3JrMTAwUV9KSWRqMVVrUFRuVDcxdjk2Y3BHZkdwT1NXRGwxc0pMUEJOY3Jvd1Y5T0xla2xSV2tKWkVUQVBYYVdQQUhpZWFpcjV1dHF6ZkwxclhkZlVCU3hhLXRvaW4xdkVTR3NGUVFRalJqSk9IYTlWOHhzZDNpcVBLeWx1OWhYTDk1SjVaUnJTTkktWjgwUmVITjlqaGNqZ2FZLXR3U3Y3d1Z5Sjd4cF82Z0UzX29jUnBIVF9w?oc=5",
+      "title": "Vector\u2011native RAG on Oracle: embeddings, HNSW/IVF, and hybrid search under database governance - Oracle Blogs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVdLWkpvRXg3RExXenFULTByY3JrMTAwUV9KSWRqMVVrUFRuVDcxdjk2Y3BHZkdwT1NXRGwxc0pMUEJOY3Jvd1Y5T0xla2xSV2tKWkVUQVBYYVdQQUhpZWFpcjV1dHF6ZkwxclhkZlVCU3hhLXRvaW4xdkVTR3NGUVFRalJqSk9IYTlWOHhzZDNpcVBLeWx1OWhYTDk1SjVaUnJTTkktWjgwUmVITjlqaGNqZ2FZLXR3U3Y3d1Z5Sjd4cF82Z0UzX29jUnBIVF9w?oc=5\" target=\"_blank\">Vector\u2011native RAG on Oracle: embeddings, HNSW/IVF, and hybrid search under database governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-25",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVdLWkpvRXg3RExXenFULTByY3JrMTAwUV9KSWRqMVVrUFRuVDcxdjk2Y3BHZkdwT1NXRGwxc0pMUEJOY3Jvd1Y5T0xla2xSV2tKWkVUQVBYYVdQQUhpZWFpcjV1dHF6ZkwxclhkZlVCU3hhLXRvaW4xdkVTR3NGUVFRalJqSk9IYTlWOHhzZDNpcVBLeWx1OWhYTDk1SjVaUnJTTkktWjgwUmVITjlqaGNqZ2FZLXR3U3Y3d1Z5Sjd4cF82Z0UzX29jUnBIVF9w?oc=5",
+      "dedupe_hash": "81d06f3e50764ad066d2b3467b0c41a2",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZwa1VXakVmVVZvdGdIY3ItaU5IQXZLTE4tNWM1b2hhQTNLX01JWUg0WmVxbGhWNUNWTDRGdTlPN05HUmdrZDY5dXVRb2x3VHpJNkFZX3BFMWFjcnh0SHAzcGYwRkt2X196RGl3cXVPbnIzbHV5UWhpTThPXzNxVzcwWEI0cFhjeGNxUlJoNzgtN0dOWDBfak42QjJJeUZXS3RaeXA1anRQRG9HdkNBWnd4RkZVY1M3blRrWFZZVQ?oc=5",
+      "title": "Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZwa1VXakVmVVZvdGdIY3ItaU5IQXZLTE4tNWM1b2hhQTNLX01JWUg0WmVxbGhWNUNWTDRGdTlPN05HUmdrZDY5dXVRb2x3VHpJNkFZX3BFMWFjcnh0SHAzcGYwRkt2X196RGl3cXVPbnIzbHV5UWhpTThPXzNxVzcwWEI0cFhjeGNxUlJoNzgtN0dOWDBfak42QjJJeUZXS3RaeXA1anRQRG9HdkNBWnd4RkZVY1M3blRrWFZZVQ?oc=5\" target=\"_blank\">Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-22",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZwa1VXakVmVVZvdGdIY3ItaU5IQXZLTE4tNWM1b2hhQTNLX01JWUg0WmVxbGhWNUNWTDRGdTlPN05HUmdrZDY5dXVRb2x3VHpJNkFZX3BFMWFjcnh0SHAzcGYwRkt2X196RGl3cXVPbnIzbHV5UWhpTThPXzNxVzcwWEI0cFhjeGNxUlJoNzgtN0dOWDBfak42QjJJeUZXS3RaeXA1anRQRG9HdkNBWnd4RkZVY1M3blRrWFZZVQ?oc=5",
+      "dedupe_hash": "e3ce4b4a92cf8085ae427ba058ecd0ec",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzYtd1ZGV0FBcDl0aWw3Z1lWNGVaanB5UHF5d3IxcDhpVW1hTEVlbVU2M0RmN1lYVGFYb0lwcGdJRGpqX2dlRzdPSFBGWnlJdGYyU3ZrdF81RTFLTzhfV2owR1FhbUpub0t3SVdpdHV4LW03UGNjSlNBTVg5T0Zwa2V3Q25LZU51TzREWXhNWFBhcnItVHp6XzZSTmRxZ1hYTVEzTDVMS05sc2x0NmtVS2ItTWxGSXpPcGVVZkttbkdRT2M?oc=5",
+      "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production - VentureBeat",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzYtd1ZGV0FBcDl0aWw3Z1lWNGVaanB5UHF5d3IxcDhpVW1hTEVlbVU2M0RmN1lYVGFYb0lwcGdJRGpqX2dlRzdPSFBGWnlJdGYyU3ZrdF81RTFLTzhfV2owR1FhbUpub0t3SVdpdHV4LW03UGNjSlNBTVg5T0Zwa2V3Q25LZU51TzREWXhNWFBhcnItVHp6XzZSTmRxZ1hYTVEzTDVMS05sc2x0NmtVS2ItTWxGSXpPcGVVZkttbkdRT2M?oc=5\" target=\"_blank\">Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-17",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzYtd1ZGV0FBcDl0aWw3Z1lWNGVaanB5UHF5d3IxcDhpVW1hTEVlbVU2M0RmN1lYVGFYb0lwcGdJRGpqX2dlRzdPSFBGWnlJdGYyU3ZrdF81RTFLTzhfV2owR1FhbUpub0t3SVdpdHV4LW03UGNjSlNBTVg5T0Zwa2V3Q25LZU51TzREWXhNWFBhcnItVHp6XzZSTmRxZ1hYTVEzTDVMS05sc2x0NmtVS2ItTWxGSXpPcGVVZkttbkdRT2M?oc=5",
+      "dedupe_hash": "e935fb25cf3ec7b7c480324ef9c703ed",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTlvVENVeDdJemJjMVkzTTdqck5wT1lRaXNNS01qbV9XY2pYdDZsb1NXM0I2bl9DS0tMTUtQbkE2TVpsZ0RMUDBiRlVqSDloNU9mQXdNQzlYYjZCU0prNGplLXpVQlU5Y3o0MnVuM21DaE9uNmx4T2EybHpKbXlHRzBrNWVrUEhvN2tFOHVKQVRhWWNsZ0I3SFpJNXo0OTZBRndIc2tBSmNoZVFpYU1WT0JnVQ?oc=5",
+      "title": "LSU Football Adds 3-Star Running Back As Class Rises To 6 Commitments For No. 51 Ranking - TigerRag.com |",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTlvVENVeDdJemJjMVkzTTdqck5wT1lRaXNNS01qbV9XY2pYdDZsb1NXM0I2bl9DS0tMTUtQbkE2TVpsZ0RMUDBiRlVqSDloNU9mQXdNQzlYYjZCU0prNGplLXpVQlU5Y3o0MnVuM21DaE9uNmx4T2EybHpKbXlHRzBrNWVrUEhvN2tFOHVKQVRhWWNsZ0I3SFpJNXo0OTZBRndIc2tBSmNoZVFpYU1WT0JnVQ?oc=5\" target=\"_blank\">LSU Football Adds 3-Star Running Back As Class Rises To 6 Commitments For No. 51 Ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TigerRag.com |</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-08",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTlvVENVeDdJemJjMVkzTTdqck5wT1lRaXNNS01qbV9XY2pYdDZsb1NXM0I2bl9DS0tMTUtQbkE2TVpsZ0RMUDBiRlVqSDloNU9mQXdNQzlYYjZCU0prNGplLXpVQlU5Y3o0MnVuM21DaE9uNmx4T2EybHpKbXlHRzBrNWVrUEhvN2tFOHVKQVRhWWNsZ0I3SFpJNXo0OTZBRndIc2tBSmNoZVFpYU1WT0JnVQ?oc=5",
+      "dedupe_hash": "28dbf9b8e6d547490af6d7f29d267498",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtY1N0cTRpa0lUX2wtSXRTTm1yS0YwZTFvVUNPcHU4YmZ5Z1RvdURCeHlhUG5aNGg3ZEMxd0lMb2dGVnhaNy1ILXRxV1lIa2h6YmRDTnR3Zk1JVmhSaUd0WkN4NGNidHpnVkNsbVBBU2pvRDMzRURGVnpEbzBqUQ?oc=5",
+      "title": "From Vector Index to MCP Tool: Building Hybrid RAG in Oracle Autonomous AI Database 26ai - Oracle Blogs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBtY1N0cTRpa0lUX2wtSXRTTm1yS0YwZTFvVUNPcHU4YmZ5Z1RvdURCeHlhUG5aNGg3ZEMxd0lMb2dGVnhaNy1ILXRxV1lIa2h6YmRDTnR3Zk1JVmhSaUd0WkN4NGNidHpnVkNsbVBBU2pvRDMzRURGVnpEbzBqUQ?oc=5\" target=\"_blank\">From Vector Index to MCP Tool: Building Hybrid RAG in Oracle Autonomous AI Database 26ai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-02",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtY1N0cTRpa0lUX2wtSXRTTm1yS0YwZTFvVUNPcHU4YmZ5Z1RvdURCeHlhUG5aNGg3ZEMxd0lMb2dGVnhaNy1ILXRxV1lIa2h6YmRDTnR3Zk1JVmhSaUd0WkN4NGNidHpnVkNsbVBBU2pvRDMzRURGVnpEbzBqUQ?oc=5",
+      "dedupe_hash": "b1e9397520e16a84e28e9420f5c8c6e8",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1BzeDl2T3lWUEU5NzVTWmlPWE5DaXkxbUFucXk1RWhGZzBCbkcxWUI5aC1pdWlWMmwtSHAydUJBUGZXbnl1VHUxbzJCWWxTOGROSG82c1NnMjdBS2hyLUNnZVNzRFgzTkdiQVYwdFgzVzZFaUVjaDVnSzJ5MFJKLTdzTzhZb3BCZkJkVVV5cWVnaVM5YndGYjhqaHk2QnNBUlQzUWFMWmJ2eUJwZ2xaaWxsLXQ?oc=5",
+      "title": "Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1BzeDl2T3lWUEU5NzVTWmlPWE5DaXkxbUFucXk1RWhGZzBCbkcxWUI5aC1pdWlWMmwtSHAydUJBUGZXbnl1VHUxbzJCWWxTOGROSG82c1NnMjdBS2hyLUNnZVNzRFgzTkdiQVYwdFgzVzZFaUVjaDVnSzJ5MFJKLTdzTzhZb3BCZkJkVVV5cWVnaVM5YndGYjhqaHk2QnNBUlQzUWFMWmJ2eUJwZ2xaaWxsLXQ?oc=5\" target=\"_blank\">Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-19",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1BzeDl2T3lWUEU5NzVTWmlPWE5DaXkxbUFucXk1RWhGZzBCbkcxWUI5aC1pdWlWMmwtSHAydUJBUGZXbnl1VHUxbzJCWWxTOGROSG82c1NnMjdBS2hyLUNnZVNzRFgzTkdiQVYwdFgzVzZFaUVjaDVnSzJ5MFJKLTdzTzhZb3BCZkJkVVV5cWVnaVM5YndGYjhqaHk2QnNBUlQzUWFMWmJ2eUJwZ2xaaWxsLXQ?oc=5",
+      "dedupe_hash": "8c5ed84f7de4a8d2f2adb34594ca263b",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTFyVkF1eFBGMk94Nk9BdjNrWlNhX0lsSnljQm9UaUF2bVJCTUd4dlhuRi1qX3lkZUpubUlDSDFXZkNHajViTVBvc1NycHBZVEtjTTczM1RuWFVieTUtR1pwSVhUYjJ2VG11YW0ydXhGRFBzcnJwOTFvMExFV3VIVkxvM1I1aEhXUGRKMkJJUGM3Y2VBeHdJSDlmQkQtTTNNT3ZQMFhwelJqdGZCRlI3ZGtVTmZLemJyZFpHMEc0U0I1cmd2UzdMNWg1UjdRbXZVVjlzTEIxWW4?oc=5",
+      "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions - Amazon Web Services (AWS)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTFyVkF1eFBGMk94Nk9BdjNrWlNhX0lsSnljQm9UaUF2bVJCTUd4dlhuRi1qX3lkZUpubUlDSDFXZkNHajViTVBvc1NycHBZVEtjTTczM1RuWFVieTUtR1pwSVhUYjJ2VG11YW0ydXhGRFBzcnJwOTFvMExFV3VIVkxvM1I1aEhXUGRKMkJJUGM3Y2VBeHdJSDlmQkQtTTNNT3ZQMFhwelJqdGZCRlI3ZGtVTmZLemJyZFpHMEc0U0I1cmd2UzdMNWg1UjdRbXZVVjlzTEIxWW4?oc=5\" target=\"_blank\">Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-04-06",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTFyVkF1eFBGMk94Nk9BdjNrWlNhX0lsSnljQm9UaUF2bVJCTUd4dlhuRi1qX3lkZUpubUlDSDFXZkNHajViTVBvc1NycHBZVEtjTTczM1RuWFVieTUtR1pwSVhUYjJ2VG11YW0ydXhGRFBzcnJwOTFvMExFV3VIVkxvM1I1aEhXUGRKMkJJUGM3Y2VBeHdJSDlmQkQtTTNNT3ZQMFhwelJqdGZCRlI3ZGtVTmZLemJyZFpHMEc0U0I1cmd2UzdMNWg1UjdRbXZVVjlzTEIxWW4?oc=5",
+      "dedupe_hash": "17b3757032dd2dc509a3c4c8ead53080",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1R2VVN3Vmg3cExjOUM2LWNLV2xrb2t6akNqMnkyWnhqdkRTYXBia1RDU0VCRW9SaW5YX2oyNlF2dmlsM08zenRWZ1Q0RmtoMGZyZ19kUTNtY1Nvd0pmWHYwWFdNUm40N0lkenNLYlM3MmNhc2dXeTU4LTVSU2JYNzBjZjNNZFhVUEpPTGRXWHpnNjVObnM4UlNNeWdzV0E?oc=5",
+      "title": "From Regex to Vision Models: Which RAG Technique Fits Which Problem - Towards Data Science",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1R2VVN3Vmg3cExjOUM2LWNLV2xrb2t6akNqMnkyWnhqdkRTYXBia1RDU0VCRW9SaW5YX2oyNlF2dmlsM08zenRWZ1Q0RmtoMGZyZ19kUTNtY1Nvd0pmWHYwWFdNUm40N0lkenNLYlM3MmNhc2dXeTU4LTVSU2JYNzBjZjNNZFhVUEpPTGRXWHpnNjVObnM4UlNNeWdzV0E?oc=5\" target=\"_blank\">From Regex to Vision Models: Which RAG Technique Fits Which Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-06-02",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1R2VVN3Vmg3cExjOUM2LWNLV2xrb2t6akNqMnkyWnhqdkRTYXBia1RDU0VCRW9SaW5YX2oyNlF2dmlsM08zenRWZ1Q0RmtoMGZyZ19kUTNtY1Nvd0pmWHYwWFdNUm40N0lkenNLYlM3MmNhc2dXeTU4LTVSU2JYNzBjZjNNZFhVUEpPTGRXWHpnNjVObnM4UlNNeWdzV0E?oc=5",
+      "dedupe_hash": "2c5c2f4b243b23b83f546343b430c074",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmo2ZWpySDdwV0I0ZnJLMlU0MllvYjdVZG5qRHJDbV8xYkVvdXpLVGZ2VUlsYzNlRlQ2UGxMYXNER29YV0dwNlQ0b3VqVGt2Z0Vra0lfVGpFWEZYVU9pOWt4XzNzQTJqeWJobEpMY2FIUTBXU0JFRlJDVVkyb21mUk5aN0RiS0lEU2ZOMm5FYzNLaTAzak8ycExxcFdKTk0ybGljbFdRQ21VNmk0LWNpNTVjemkzYklEeS1acWFRVQ?oc=5",
+      "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits - VentureBeat",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmo2ZWpySDdwV0I0ZnJLMlU0MllvYjdVZG5qRHJDbV8xYkVvdXpLVGZ2VUlsYzNlRlQ2UGxMYXNER29YV0dwNlQ0b3VqVGt2Z0Vra0lfVGpFWEZYVU9pOWt4XzNzQTJqeWJobEpMY2FIUTBXU0JFRlJDVVkyb21mUk5aN0RiS0lEU2ZOMm5FYzNLaTAzak8ycExxcFdKTk0ybGljbFdRQ21VNmk0LWNpNTVjemkzYklEeS1acWFRVQ?oc=5\" target=\"_blank\">Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "authors": [
+        "\"RAG\" - Google News"
+      ],
+      "publication_date": "2026-05-18",
+      "source_type": "google_news",
+      "tier": "tier_3",
+      "credibility_score": 0,
+      "metadata": {
+        "feed_title": "\"RAG\" - Google News",
+        "feed_url": "https://news.google.com/rss/search?q=RAG&hl=en&gl=US&ceid=US:en",
+        "tags": [],
+        "query": "RAG"
+      },
+      "fetched_at": "2026-06-10T03:13:51.000187",
+      "dedupe_key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmo2ZWpySDdwV0I0ZnJLMlU0MllvYjdVZG5qRHJDbV8xYkVvdXpLVGZ2VUlsYzNlRlQ2UGxMYXNER29YV0dwNlQ0b3VqVGt2Z0Vra0lfVGpFWEZYVU9pOWt4XzNzQTJqeWJobEpMY2FIUTBXU0JFRlJDVVkyb21mUk5aN0RiS0lEU2ZOMm5FYzNLaTAzak8ycExxcFdKTk0ybGljbFdRQ21VNmk0LWNpNTVjemkzYklEeS1acWFRVQ?oc=5",
+      "dedupe_hash": "704b5b78517339a4d4b3f796c1fa100e",
+      "created_at": "2026-06-10T03:13:55.099552+00:00"
+    }
+  ],
+  "fetch_logs": [
+    {
+      "source_type": "google_news",
+      "fetch_timestamp": "2026-06-10T03:13:55.099552+00:00",
+      "items_fetched": 50,
+      "items_new": 50,
+      "items_duplicate": 0,
+      "fetch_duration_seconds": 0,
+      "status": "success",
+      "error_message": null,
+      "keywords": [
+        "RAG"
+      ]
+    }
+  ],
+  "last_updated": "2026-06-10T03:13:55.101049+00:00",
+  "total_count": 50
+}

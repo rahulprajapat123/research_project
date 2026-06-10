@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Intelligence</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="/static/app.js" defer></script>
+</head>
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <div class="brand">
+                <span class="brand-mark"><i class="fa-solid fa-graduation-cap"></i></span>
+                <div>
+                    <strong>Learning Intel</strong>
+                    <span>Briefs + daily signals</span>
+                </div>
+            </div>
+            <nav class="nav">
+                <button class="nav-link active" data-section="upload">
+                    <i class="fa-solid fa-file-arrow-up"></i>
+                    <span>Upload Brief</span>
+                </button>
+                <button class="nav-link" data-section="daily">
+                    <i class="fa-solid fa-envelope-open-text"></i>
+                    <span>Daily Intelligence</span>
+                </button>
+            </nav>
+        </aside>
+
+        <main class="main">
+            <header class="topbar">
+                <div>
+                    <h1 id="pageTitle">Upload Brief</h1>
+                    <p id="pageSubtitle">Extract project context and retrieve relevant resources.</p>
+                </div>
+                <div class="topbar-actions">
+                    <span id="healthPill" class="status-pill neutral"><i class="fa-solid fa-circle"></i> Checking</span>
+                    <button id="themeToggle" class="icon-btn" type="button" title="Toggle theme">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                </div>
+            </header>
+
+            <section id="upload" class="section active">
+                <div class="content-grid upload-layout">
+                    <section class="panel">
+                        <div class="panel-header">
+                            <h2>Upload Brief</h2>
+                            <span class="panel-badge">PDF TXT MD DOCX</span>
+                        </div>
+                        <form id="briefForm">
+                            <label id="dropZone" class="drop-zone" for="briefFile">
+                                <i class="fa-solid fa-cloud-arrow-up"></i>
+                                <strong id="dropTitle">Drop brief here</strong>
+                                <span id="dropMeta">or choose a file</span>
+                                <input id="briefFile" name="file" type="file" accept=".pdf,.txt,.md,.docx" hidden>
+                            </label>
+                            <div class="button-row">
+                                <button id="uploadBriefBtn" class="btn primary" type="submit">
+                                    <i class="fa-solid fa-upload"></i>
+                                    <span>Upload</span>
+                                </button>
+                                <button id="analyzeBriefBtn" class="btn secondary" type="button" disabled>
+                                    <i class="fa-solid fa-magnifying-glass-chart"></i>
+                                    <span>Find Resources</span>
+                                </button>
+                            </div>
+                        </form>
+                        <div id="briefStatus" class="callout neutral">No brief uploaded.</div>
+                        <div id="briefWarnings" class="warning-list"></div>
+                    </section>
+
+                    <section class="panel">
+                        <div class="panel-header">
+                            <h2>Brief Understanding</h2>
+                        </div>
+                        <div id="briefFields" class="field-grid empty-state">Upload a brief to see extracted context.</div>
+                    </section>
+                </div>
+
+                <section class="panel">
+                    <div class="panel-header">
+                        <h2>Resource Results</h2>
+                        <span id="resourceCount" class="panel-badge">0</span>
+                    </div>
+                    <div id="resourceResults" class="result-list empty-state">No resources yet.</div>
+                </section>
+            </section>
+
+            <section id="daily" class="section">
+                <div class="content-grid daily-layout">
+                    <section class="panel">
+                        <div class="panel-header">
+                            <h2>Daily Settings</h2>
+                        </div>
+                        <form id="emailSettingsForm" class="settings-form">
+                            <label>
+                                <span>Email</span>
+                                <input id="teamEmail" type="email" placeholder="team@example.com">
+                            </label>
+                            <label>
+                                <span>Reminder Time</span>
+                                <input id="sendTime" type="time" value="08:00">
+                            </label>
+                            <label>
+                                <span>Timezone</span>
+                                <input id="emailTimezone" type="text" value="UTC">
+                            </label>
+                            <label>
+                                <span>Provider</span>
+                                <select id="emailProvider">
+                                    <option value="disabled">Disabled</option>
+                                    <option value="smtp">SMTP</option>
+                                    <option value="sendgrid">SendGrid</option>
+                                    <option value="resend">Resend</option>
+                                </select>
+                            </label>
+                            <label class="toggle-row">
+                                <input id="emailEnabled" type="checkbox">
+                                <span>Enabled</span>
+                            </label>
+                            <label class="full">
+                                <span>Topics</span>
+                                <textarea id="emailTopics" rows="4">AI, LLM, RAG, agentic AI, automation, developer tools, AI security</textarea>
+                            </label>
+                            <div class="button-row">
+                                <button id="saveSettingsBtn" class="btn primary" type="submit">
+                                    <i class="fa-solid fa-floppy-disk"></i>
+                                    <span>Save</span>
+                                </button>
+                                <button id="previewDailyBtn" class="btn secondary" type="button">
+                                    <i class="fa-solid fa-eye"></i>
+                                    <span>Preview Top 20</span>
+                                </button>
+                                <button id="sendNowBtn" class="btn ghost" type="button">
+                                    <i class="fa-solid fa-paper-plane"></i>
+                                    <span>Send Now</span>
+                                </button>
+                            </div>
+                        </form>
+                        <div id="dailyConfigStatus" class="callout neutral">Email settings not loaded.</div>
+                    </section>
+
+                    <section class="panel">
+                        <div class="panel-header">
+                            <h2>Top 20 Updates</h2>
+                            <span id="dailyCount" class="panel-badge">0</span>
+                        </div>
+                        <div id="dailyWarnings" class="warning-list"></div>
+                        <div id="dailyPreview" class="result-list empty-state">No daily report loaded.</div>
+                    </section>
+                </div>
+
+                <section class="panel">
+                    <div class="panel-header">
+                        <h2>Email History</h2>
+                    </div>
+                    <div id="emailHistory" class="history-list empty-state">No email history yet.</div>
+                </section>
+            </section>
+        </main>
+    </div>
+
+    <div id="toastContainer" class="toast-container"></div>
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="spinner"></div>
+        <p id="loadingText">Working</p>
+    </div>
+</body>
+</html>
