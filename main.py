@@ -11,6 +11,7 @@ import time
 from pathlib import Path
 import asyncio
 import sys
+import os
 
 from config import get_settings
 from api.routers import briefs, copilot, dashboard, health, intelligence, sources
@@ -22,9 +23,12 @@ if sys.platform.startswith("win"):
 
 settings = get_settings()
 
-# Configure logger
+# Configure logger - use /tmp for Vercel (read-only filesystem)
+log_dir = Path("/tmp/logs") if os.getenv("VERCEL") else Path("logs")
+log_dir.mkdir(parents=True, exist_ok=True)
+
 logger.add(
-    "logs/api_{time}.log",
+    str(log_dir / "api_{time}.log"),
     rotation="500 MB",
     retention="10 days",
     level=settings.log_level
@@ -38,44 +42,54 @@ async def lifespan(app: FastAPI):
     logger.info(f"Starting {settings.app_name}")
     logger.info(f"Environment: {settings.environment}")
     logger.info(f"LLM Provider: {settings.llm_provider}")
+    logger.info(f"Running on: {'Vercel' if os.getenv('VERCEL') else 'Local'}")
     logger.info("All systems ready")
-    scheduler = get_scheduler()
-    try:
-        scheduler.start()
-    except Exception as exc:
-        logger.warning(f"Scheduler did not start cleanly: {exc}")
+    
+    # Don't start scheduler on Vercel (use cron jobs instead)
+    if not os.getenv("VERCEL"):
+        scheduler = get_scheduler()
+        try:
+            scheduler.start()
+        except Exception as exc:
+            logger.warning(f"Scheduler did not start cleanly: {exc}")
 
     yield
 
     # Shutdown
-    try:
-        scheduler.stop()
-    except Exception as exc:
-        logger.warning(f"Scheduler did not stop cleanly: {exc}")
+    if not os.getenv("VERCEL"):
+        try:
+            scheduler = get_scheduler()
+            scheduler.stop()
+        except Exception as exc:
+            logger.warning(f"Scheduler did not stop cleanly: {exc}")
     logger.info("Shutting down application")
 
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="Learning Intelligence Platform",
-    description="Upload brief analysis and daily learning intelligence.",
+    title="Research Intelligence Platform",
+    description="AI-powered research intelligence for technology recommendations and daily intelligence reports.",
     version="1.0.0",
-    lifespan=lifespan
+    lifespan=lifespan,
+    docs_url="/docs",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json"
 )
 
-# CORS middleware
+# CORS middleware - Allow all origins for Vercel deployment
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.allowed_origins.split(",") if settings.allowed_origins != "*" else ["*"],
+    allow_origins=["*"],  # Allow all origins for Vercel
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Mount static files for frontend
-frontend_path = Path(__file__).parent / "frontend"
-if frontend_path.exists():
-    app.mount("/static", StaticFiles(directory=str(frontend_path)), name="static")
+# Mount static files for frontend (only if not on Vercel)
+if not os.getenv("VERCEL"):
+    frontend_path = Path(__file__).parent / "frontend"
+    if frontend_path.exists():
+        app.mount("/static", StaticFiles(directory=str(frontend_path)), name="static")
 
 
 # Request timing middleware
@@ -121,24 +135,50 @@ async def favicon():
     return Response(status_code=204, media_type="image/x-icon")
 
 
+# Frontend routes for Vercel deployment
+@app.get("/frontend/{file_path:path}")
+async def serve_frontend(file_path: str):
+    """Serve frontend files"""
+    frontend_dir = Path(__file__).parent / "frontend"
+    file = frontend_dir / file_path
+    
+    if file.exists() and file.is_file():
+        # Determine media type
+        media_type = "text/html"
+        if file_path.endswith(".css"):
+            media_type = "text/css"
+        elif file_path.endswith(".js"):
+            media_type = "application/javascript"
+        elif file_path.endswith(".json"):
+            media_type = "application/json"
+        elif file_path.endswith(".png"):
+            media_type = "image/png"
+        elif file_path.endswith(".jpg") or file_path.endswith(".jpeg"):
+            media_type = "image/jpeg"
+        elif file_path.endswith(".svg"):
+            media_type = "image/svg+xml"
+        
+        return FileResponse(str(file), media_type=media_type)
+    
+    return JSONResponse({"error": "File not found"}, status_code=404)
+
+
 @app.get("/")
 async def root():
-    """Serve Project Research Copilot UI"""
+    """Serve Project Research Copilot UI or API info"""
     copilot_page = Path(__file__).parent / "frontend" / "copilot.html"
     if copilot_page.exists():
         return FileResponse(str(copilot_page))
-    
-    # Fallback to main index
-    frontend_index = Path(__file__).parent / "frontend" / "index.html"
-    if frontend_index.exists():
-        return FileResponse(str(frontend_index))
     
     # Fallback to API info
     return {
         "name": settings.app_name,
         "version": "1.0.0",
         "status": "operational",
-        "docs": "/docs"
+        "environment": "vercel" if os.getenv("VERCEL") else "local",
+        "docs": "/docs",
+        "health": "/api/v1/health",
+        "frontend": "/frontend/copilot.html"
     }
 
 

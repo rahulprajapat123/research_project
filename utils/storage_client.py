@@ -14,7 +14,12 @@ class StorageClient:
     
     def __init__(self):
         if settings.storage_type == "local":
-            self.storage_path = Path(settings.storage_path)
+            # Use /tmp for Vercel (read-only filesystem)
+            if os.getenv("VERCEL"):
+                self.storage_path = Path("/tmp") / "storage"
+            else:
+                self.storage_path = Path(settings.storage_path)
+            
             self.storage_path.mkdir(parents=True, exist_ok=True)
             logger.info(f"Using local storage: {self.storage_path}")
         

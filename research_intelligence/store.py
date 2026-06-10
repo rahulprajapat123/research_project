@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import re
 import threading
+import os
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional
@@ -26,7 +27,12 @@ class IntelligenceStore:
     """Store intelligence objects in Postgres when available, otherwise JSON."""
 
     def __init__(self, local_path: Optional[Path] = None, use_postgres: bool = True) -> None:
-        base_path = Path(settings.storage_path)
+        # Use /tmp for Vercel (read-only filesystem)
+        if os.getenv("VERCEL"):
+            base_path = Path("/tmp") / "storage"
+        else:
+            base_path = Path(settings.storage_path)
+        
         self.local_path = local_path or base_path / "intelligence_store.json"
         self.local_sources_path = (
             base_path / "fetched_sources.json"

@@ -313,7 +313,12 @@ class SourceOrchestrator:
         import os
         from pathlib import Path
         
-        storage_path = Path(settings.storage_path)
+        # Use /tmp for Vercel (read-only filesystem)
+        if os.getenv("VERCEL"):
+            storage_path = Path("/tmp") / "storage"
+        else:
+            storage_path = Path(settings.storage_path)
+        
         storage_path.mkdir(parents=True, exist_ok=True)
         sources_file = storage_path / "fetched_sources.json"
         
