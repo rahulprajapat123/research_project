@@ -163,6 +163,13 @@ async def serve_frontend(file_path: str):
     return JSONResponse({"error": "File not found"}, status_code=404)
 
 
+# Static route for backward compatibility (redirects to frontend)
+@app.get("/static/{file_path:path}")
+async def serve_static(file_path: str):
+    """Serve static files (compatibility alias for /frontend/)"""
+    return await serve_frontend(file_path)
+
+
 @app.get("/")
 async def root():
     """Serve Project Research Copilot UI or API info"""
