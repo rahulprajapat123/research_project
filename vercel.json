@@ -5,7 +5,9 @@
       "src": "main.py",
       "use": "@vercel/python",
       "config": {
-        "maxLambdaSize": "50mb"
+        "maxLambdaSize": "50mb",
+        "memory": 3008,
+        "maxDuration": 300
       }
     },
     {
@@ -36,12 +38,6 @@
     "APIFY_API_TOKEN": "@apify_api_token",
     "EMAIL_PROVIDER": "@email_provider",
     "EMAIL_FROM": "@email_from"
-  },
-  "functions": {
-    "main.py": {
-      "memory": 3008,
-      "maxDuration": 300
-    }
   },
   "crons": [
     {
